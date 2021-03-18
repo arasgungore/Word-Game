@@ -1,0 +1,907 @@
+905
+
+ABARTISIZ: Olduðundan daha büyük veya çok göstermeye çalýþýlmamýþ, mübalaðasý olmayan
+ABUKSABUK: Akla, mantýða uymayan, saçma sapan anlamlarýnda kalýplaþmýþ bir tabir
+ABURCUBUR: Eðlencelik atýþtýrmalýk kisvesine bürünmüþ sinsi düþman
+ABURCUBUR: Leziz fakat yararsýz olan, hýzlý fakat zamansýz yenen karýþýk yiyecek
+ACIGERÇEK: Ýstenmediði halde karþýlaþýlan sýkýntýlý, kaçýnýlmaz hakikat
+ACIKUVVET: Daha çok alýþýlmadýk ölçüdeki zorlu ve etkili kas gücü için kullanýlan tabir
+ACIMADIKÝ: Dayak arsýzlýðýnýn mottosu
+AÇIKBÝLET: Tarihi kararlaþtýrýlmamýþ bir yolculuk için önceden satýn alýnan ulaþtýrma belgesi
+AÇIKVERME: Geliri, giderini karþýlamama
+ADAYADAYI: Bir seçime namzet olarak dahil olma aþamasýndaki kiþi
+ADIBATSIN: Birinin ismine, kimliðine beddua etmek için kullanýlan kalýplaþmýþ tabir
+ADIÇIKMAK: Kötü bir ün kazanmak
+ADLÝPOLÝS: Adliye içerisinde güvenliði saðlayýp cumhuriyet savcýsýna baðlý olarak çalýþan kolluk gücü
+ADRENALÝN: Kaç veya savaþ hormonu
+AFALLAMAK: Þaþkýnlýktan sersemleþmek
+AFRATAFRA: Büyüklenme, böbürlenme, küstahlýk ve maðrurluk içindeki hâl ve tavýr
+AFRATAFRA: Kurum, caka, çalým, böbürlenme anlamlarýnda bir söz dizisi
+AÐAÇOLMAK: Argoda “bir yerde uzun süre ayakta beklemek” anlamýnda kullanýlan tabir
+AÐIRAKSAK: Yavaþ ve düzensiz bir biçimde anlamýndaki söz dizisi
+AÐIRBAÞLI: “Vakur” sözünün Türkçe kökenli karþýlýðý
+AÐIRHAPÝS: Yirmi yýl ve üstü cezayý veya müebbet hükümlülüðü tanýmlayan söz dizisi
+AÐIRHASTA: Ýyileþmesi güç, hayati tehlike içerecek kadar rahatsýz anlamlarýndaki söz dizisi
+AÐIRKANLI: Yavaþ iþ gören, geç tepki veren kiþilere yönelik kullanýlan bir birleþik kelime
+AÐIRKAYIP: Savaþ, deprem, sel gibi doðal afetlerde can ve mal açýsýndan uðranýlan büyük zarar
+AÐIRKONUK: Büyük saygý duyulan, ziyaretiyle onur ve telaþ yaratan misafir
+AÐIRSÝLAH: Namlu çapý 60 kalibreden büyük olan savaþ aletleri için kullanýlan söz dizisi
+AÐIRSÝLAH: Tank, top, obüs gibi savaþ araçlarýnýn genel adý
+AÐZIBOZUK: “Küfürbaz” anlamýnda bir söz dizisi
+AÝLEREÝSÝ: Toplumun en küçük birliðine liderlik eden kiþi
+AÝLEREÝSÝ: Toplumu oluþturan en küçük birliðin yükümlülüðünü taþýyan kimse
+AKARYAKIT: Besin deðeri olmayan fakat enerji saðlayan sývýlarýn genel adý
+AKARYAKIT: Isý ve enerji saðlamak için kullanýlan sývý maddelerin geneli için geçerli bir tabir
+AKILALMAZ: “Ýnanýlacak gibi olmayan” anlamýnda bir birleþik kelime
+AKINCILAR: Osmanlý Ýmparatorluðu’nun askerî teþkilatýnda yýpratma harekâtýnda bulunan hafif süvari birlikleri
+AKLAZARAR: “Ýnsaný delirtir, ruh saðlýðýný bozar” anlamýnda, ünlem olarak kullanýlan bir söz dizisi
+AKLIFÝKRÝ: “Bütün düþündüðü” anlamýnda kullanýlan söz dizisi
+AKROBATÝK: “Cambazlýkla ilgili, cambazvari, cambazca” anlamlarýnda kullanýlan Batý kökenli kelime
+ALAYAALMA: Küçümseyerek eðlence konusu yapma
+ALELACELE: Vakit geçirmeden, çabucak anlamýnda bir söz
+ALGORÝTMA: Adýný 9. yy. Fars matematikçisi el-Harezmi’den alan, bir sorunun çözümü için sonlu sayýda adýmdan oluþan sonlu kurallar ve/veya iþlemler kümesi
+ALGORÝTMA: Orta Çað’da Arap rakamlarý ve onluk sayý sistemiyle yapýlan iþlemler için kullanýlýp, günümüzde bilgisayarlarýn ikili sayý sistemiyle yaptýðý hesaplama yöntemleri için kullanýlan söz
+ALIKOYMAK: Birini, yapmakta olduðu veya yapmak istediði iþten geri tutmak
+ALIMSATIM: Ticaretin temelini oluþturan aktiviteler
+ALTMIÞÝKÝ: Tavþanýn sayýsal deðeri
+ALTMIÞYIL: Çok uzun zaman anlamýnda kullanýlan “sittinsene” tabirinin matematiksel karþýlýðý
+AMFÝTEATR: Dinleyicilerin oturduðu, sýralarý arkaya doðru basamaklý olarak yükselen salon
+AMÝNOASÝT: Proteinin temel yapý taþý
+ANAKUZUSU: Hem kucak çocuðu hem de sýkýntýya, güç iþlere alýþmamýþ, nazlý büyütülmüþ çocuk veya genç anlamlarýnda bir söz dizisi
+ANAYÜREÐÝ: “Çocuðu olan kadýnlara has sevecenlik ve merhamet duygularý” için kullanýlan bir söz dizisi
+ANAYÜREÐÝ: En baðýþlayýcý yargý organý
+ANÝMASYON: Canlandýrma anlamýndaki yabancý kökenli sözcük
+ANKSÝYETE: Psikonörotik bozukluða dönüþmüþ endiþe
+ANTÝVÝRÜS: Sanal penisilin
+ANTRENMAN: Sportif hazýrlýk ve alýþtýrma
+APARTOPAR: “Telaþ ve aceleyle” anlamýnda bir söz dizisi
+APARTOTEL: Baðýmsýz apartman veya villa tipinde inþa edilmiþ konaklama tesisi
+APARTOTEL: “Tatilde de mutfaða mý girilirmiþ” demeyenlerin tercih ettiði bir tür konaklama tesisi
+ARABULUCU: Uzlaþma erbabý
+ARAÇGEREÇ: “Takým taklavat, alet edevat” tabirlerinin Türkçe kökenli karþýlýðý olan söz dizisi
+ARAMAÝZNÝ: Güvenlik güçlerinin delil ve suçlu bulmak üzere aldýðý resmî inceleme müsaadesi
+ARAÞTIRMA: Bilgi sahibi olma, bir gerçeði bulma amacýyla yapýlan yöntemli çalýþma
+ARIKOVANI: Minyatür bal mandýrasý
+ARITIMEVÝ: “Rafineri” sözünün Türkçe kökenli karþýlýðý
+ARÝTMETÝK: Matematiðin, konusu sayýlar, bunlarýn özellikleri ve iþlemler olan kolu, hesap
+ARKEOLOJÝ: Hafriyat bilimi
+ARUZVEZNÝ: Divan edebiyatýnýn nabýz atýþlarý
+ASLANPAYI: Bir maldan eþitlik düþünülmeden alýnan büyük hisse
+ASPARAGAS: “Gerçeðe dayanmayan” anlamýnda, söylemesi çok zevkli bir kelime
+ASPARAGAS: “Kuþkonmaz”ýn yabancý kökenli adý olup dilimizde “uydurma haber” anlamýnda kullanýlan söz
+AÞIKATMAK: Boy ölçüþmek
+AÞNAFÝÞNE: “Aganigi naganigi” ve “fanfinifinfon” tabirlerinin eþ ve yakýn anlamlý karþýlýðý
+AÞNAFÝÞNE: Argoda arzularýn eyleme döküldüðü, gizlice sürdürülen gönül iliþkisi
+ATARDAMAR: Nabzý veren yaþamsal kanal
+AVUÇAÇMAK: Dilenmek, para veya maddi yardým istemek anlamýnda bir tabir
+AVUÇAÇMAK: Karþýlýðý ödenmeyecek þekilde yardým istemek, dilenmek
+AVUÇAÇMAK: Onursuzca yardým istemek veya dilenmek
+AVUSTURYA: Hükûmet baþkanlarýna “þansölye” unvaný verilen bir ülke
+AYAKLANMA: Toplu isyan ve baþkaldýrý
+AYAKOYUNU: Kandýrma amacý güden her türlü hileli hareket
+AYIPLIMAL: Belirlenen ölçünlere uymayan, kusurlu, defolu ticaret eþyalarý için kullanýlan iktisat terimi
+AYPARÇASI: Güzel kadýnlar için, bronz tenin raðbet görmediði dönemlerde daha yaygýn kullanýlmýþ olan bir tabir
+AYÞEKADIN: Karakterize edilmiþ fasulye
+AYÞEKADIN: Ülkemizdeki her 17 kiþiden biri ile ayný ismi paylaþan fasulye türü
+AYTAKVÝMÝ: Bir yýlýn 354 gün olduðu zaman belirleme yöntemi
+AYVAGÖBEK: Bel pýtýðý
+AZIMSAMAK: Bir þeyin umulduðundan eksik, küçük, niteliksiz olduðu yargýsýna varmak
+BABAOCAÐI: Doðup büyünülen ataerkil konut
+BABAYÝÐÝT: Hem yürekli, hem güçlü, kuvvetli hem de kendine güvenen anlamlarýnda epik bir tabir
+BACIKALFA: Tevfik Gelenbe ile özdeþleþmiþ, aileden sayýlan siyahi halayýklarýn unvaný
+BADEMYAÐI: Cilde uygulanmasýnýn yaný sýra saç, kaþ, kirpik hatta býyýk için kullanýlan bir bakým ürünü
+BAÐKURMAK: Ortak paydalardan, benzerliklerden faydalanýp irtibat ve iliþki saðlamak
+BAÐLANMAK: “Angaje olmak” tabirinin Türkçe kökenli karþýlýðý
+BAHÇEKATI: “Birinci kot” da denen, doðayla ayný hizada yaþanabilen apartman bölümü
+BAKLAFALI: Bir bitkinin taneleriyle gerçekleþtirilen kehanette bulunma yöntemi
+BAKLAFALI: Yeþil kabuklu bir bitkinin tanelerinden faydalanan batýl itikat
+BALIKADAM: “Dalgýç” anlamýnda kullanýlan bir söz dizisi
+BALIKADAM: Profesyonel dalýþ yapanlar ve üstün nitelikli, deneyimli dalgýçlar için kullanýlan bir tabir
+BALIKESÝR: 6 Eylül 1922 tarihinde iþgalden kurtulan ilimiz
+BALIKETLÝ: Biçimli þiþman, dolgun
+BALIKETLÝ: Ýþtahýný bedensel estetiðine yansýtmýþ kiþiler için kullanýlan bir tabir
+BALIKLAMA: Suya gergin, düz ve baþ aþaðý biçimde yapýlan atlayýþ
+BALTALAMA: Sabote ve sabotaj sözlerinin Türkçe kökenli karþýlýðý
+BANLANMAK: Ýnternetin dilimize soktuðu, “yasaklanmak, yasaklý duruma gelmek” anlamýndaki söz
+BARUTGÝBÝ: “Öfkeden patlamak üzere” anlamýnda, yakýþtýrma yollu bir söz dizisi
+BASTIRMAK: Yaðmur, kar gibi doða olaylarý için “birdenbire baþlamak, etkili olmak” anlamýnda kullanýlan bir söz
+BAÞBELASI: Büyük zarar ve sýkýntýya yol açan kimse anlamýnda bir söz dizisi
+BAÞKANLIK: Bir yürütme erkinin yasama organýndan baðýmsýz bir þekilde yönetimde bulunduðu hükümet sistemi
+BECERÝKLÝ: Eli uz, mahir sözlerinin yaygýn kullanýlan karþýlýðý
+BEKLEÞMEK: Kalabalýkla birlikte bir iþ oluncaya, biri gelinceye deðin bir yerde kalmak, durmak
+BELERTMEK: Halk aðzýnda “gözünü, aký iyice belirecek bir biçimde açmak”
+BENCÝLLÝK: Balzac’ýn “dostluðun zehri” olarak tanýmladýðý, hodbinlik veya hodkâmlýk da denen durum
+BENZETMEK: Argoda adamakýllý dövmek
+BENZETMEK: Halk aðzýnda iz býrakacak þekilde dövmek
+BENZETMEK: Yeni nesil argosundaki “patates etmek” tabirinin eski nesil argosundaki karþýlýðý
+BEREKETLÝ: “Beklenilenden daha verimli olan, bolca ve uzun süre kullanýlan” anlamýnda bir söz
+BEÞKARDEÞ: Þamarýn metaforik isimlerinden biri
+BETONARME: Yapýlarda çimento ve demirden yararlanma yöntemi veya bu yöntemle yapýlmýþ yapý
+BEVLÝYECÝ: “Ürolog” sanýna sahip hekimlere eski dilde verilen unvan
+BEYAZDÝZÝ: Genellikle aþk konularýný basit bir biçimde iþleyen romanlardan oluþan seri
+BINGILDAK: Kafatasýnýn kemikleþmeden önceki kemiklerin birleþme yerlerinde bulunan kýkýrdak bölümü
+BIYIKALTI: Sezdirmemeye dayalý gülümsemelerin adresi
+BIYIKALTI: Sinsi tebessümleri perdeleyen organik kamuflaj
+BÝBERGAZI: Göz, burun, aðýz ve akciðerlerdeki mukus zarlarýna saldýran maddenin en gevþek halindeki silah, oleoresin capsicum
+BÝBERGAZI: Sivil itaatsizlik, aktivizm, grev, boykot ve protesto püskürtücüsü
+BÝNÝCÝLÝK: Ýnsanoðlunun bir hayvanla birlikte yaptýðý tek olimpik spor dalý
+BÝRDÝRHEM: Bin ayýp örten 3,207 gramlýk aðýrlýk
+BÝRZAHMET: Ýstekte bulunanýn, isteði yerine getirecek olana söylediði kalýplaþmýþ rica tabiri
+BÝTLENMEK: “Üzerinde asalak canlý üremek” anlamýna gelen, eskiden saçlarýn sýfýra vurulmasýyla sonuçlanan durum
+BÝYOGRAFÝ: Eskiden “hâl tercümesi” denilen bir düzyazý türünün Batý kökenli adý
+BÝYOGRAFÝ: Eskiden “tercüme-i hâl” denilen yaþam öyküsü
+BÝYOGRAFÝ: Kiþinin yaþamýnýn belli baþlý evrelerini içeren yazý
+BÝYOGRAFÝ: Yazýna dökülmüþ öz geçmiþ
+BOCAETMEK: Ýçi sývý dolu bir kabý ters çevirip boþaltmak, dökmek
+BOCALAMAK: “Ne yapacaðýný bilememek, kestirememek” anlamýnda da kullanýlan bir gemicilik deyimi
+BOMBALAMA: Olabildiðince fazla su fýþkýrtma amaçlý bir suya atlayýþ biçimi
+BONDÇANTA: Adýný hayali bir ajan karakterinden alan, iþ dünyasýnýn resmiyetini taþýyan taþýma gereci
+BORUHATTI: Doðal gaz veya petrol gibi sývý veya gaz aktarýmý için kurulmuþ olan þebeke
+BOÞVERMEK: Argoda aldýrmamak, önemsememek, peþini býrakmak
+BOZUKPARA: Yükte aðýr pahada hafif ödeme aracý
+BÖÐÜRTLEN: Diken dutu da denen, meyveleri hem mayhoþken hem tatlýyken tüketilen asi tabiatlý bir bitki
+BÖLÜMÞEFÝ: Bir kurum ya da kuruluþtaki belli bir departmanýn yöneticisi durumundaki kiþi
+BULDUMCUK: Uzun zaman beklediði bir emele kavuþtuktan sonra þýmarmýþ olan kiþi
+BUTÝKOTEL: Klas ve stil sahibi pansiyon
+BUZDOLABI: Soðukkanlý beyaz eþya
+BUZKESMEK: Çok üþümek anlamýnda kullanýlan tabir
+BUZULÇAÐI: Yeryüzündeki topraklarýn üçte birinin donduðu pleistosen döneme verilen ad
+BÜTÜNLEME: Baþarýsýz öðrenciler için rövanþ sýnavý
+BÜTÜNLEME: Finallerdeki eksikliði tamamlama sýnavý
+BÜYÜKHARF: Özel adlarla cümle baþlarý gibi yerlerde kullanýlan yazý iþareti, majüskül
+BÜYÜLEMEK: Alt anlamý “çekiciliði ile etkisi altýna almak, birini kendine baðlamak, teshir etmek” olan söz
+CAÐKEBABI: Erzurum yöresine özgü, adýný kullanýlan özel þiþlerden alan közde piþirilmiþ et yemeði
+CAMGÜZELÝ: Adýný pencere kenarýnda zaman geçirmeyi seven ev kýzlarýndan alan bir çiçek türü
+CANDAMARI: En önemli veya hassas noktasý, bir þeyin yaþamasý için en önemli araç
+CANIMFEDA: “Uðruna hayatýmý veririm” anlamýnda kullanýlan tabir
+CANITATLI: Sýkýntýya ve acýya gelemeyen kiþilere yönelik bir söz dizisi
+CANLANMAK: Gücü artmak, diri bir duruma gelmek
+CANYELEÐÝ: Deniz kazalarýnda kullanýlan kara gün giysisi
+CANYELEÐÝ: Hayat kurtaran giysi
+CAYDIRMAK: Kararýndan döndürmek, vazgeçmesini saðlamak
+CEBEATMAK: Hakký olmadýðý hâlde bir parayý kendine mal etmek anlamýndaki deyim
+CENNETLÝK: Öte dünyadaki sonsuz mutluluðu bu dünyadayken garantilemiþ olan kiþi
+CENNETLÝK: Öte dünyada ödüllendirilmeyi hak ettiði düþünülen kiþi
+CENTÝLMEN: Saygýlý, görgülü ve kibar erkek
+CENTÝLMEN: Zarif ve kibar erkek anlamýnda kullanýlan yabancý kökenli söz
+CEZBETMEK: Kendine çekmek, baðlamak
+CÝÐERPARE: “Çok sevilen kiþi” anlamýnda kullanýlan ve bir organý konu eden Farsça kökenli tabir
+CÝNMISIRI: Patlatýlarak tüketilen çerezlik darý
+ÇALAKALEM: Geliþigüzel yazý yazmayý niteleyen bir söz
+ÇALARSAAT: Görevini kýsmen cep telefonlarýna býrakmýþ olan sinir bozucu bir alet
+ÇALIÇIRPI: Ýnce, kuru aðaç dallarý, kuru ot gibi malzemeleri tanýmlayan bir söz dizisi
+ÇARKETMEK: Mecazi anlamda savunduðu düþünceden vazgeçmek, dönmek
+ÇARLÝSTON: Afro-Amerikanlara özgü bir halk dansýnýn 1920’lerde yaygýnlaþýp caz dansýna dönüþmüþ hâli
+ÇARPILMAK: Ýlahi veya ruhani varlýklarýn hýþmýna uðramak
+ÇATLATMAK: Birini bilerek ve isteyerek kýskandýrmak, sinirlendirmek
+ÇEÞÝTLEME: Varyasyon sözünün Türkçe karþýlýklarýndan biri
+ÇEÞMEBAÞI: Birçok türküye göre kýrsal alanýn sosyalleþme mekâný
+ÇEVREYOLU: 3. Köprü’yle birlikte, 5 bin hektarlýk yeþil alaný tahrip edeceði öngörülen ana ulaþým platformu
+ÇIBANBAÞI: Mecazen bir olumsuzluk yaratan grubun önderi
+ÇÝÇEKGÝBÝ: Yakýþtýrma yollu olarak “temiz, bakýmlý, güzel” anlamlarýnda kullanýlan söz dizisi
+ÇÝTLEMBÝK: “Menengiç”in esmer ve sevimli küçük kýz çocuklarý için de kullanýlan diðer adý
+ÇÝTLEMBÝK: Ufak tefek, esmer ve sevimli kiþilere yakýþtýrýlan, diðer adý da menengiç olan bir meyve
+ÇOCUKKÖYÜ: Yaþý küçük ve yardýma muhtaç kiþiler için kurulan yerleþim alanlarý
+ÇOKBÝLMÝÞ: Gayretli ukala
+ÇOKBÝLMÝÞ: Tariz sanatýndan faydalanarak “ukala” anlamýnda kullanýlan bir birleþik kelime
+ÇÖLÝKLÝMÝ: Yýllýk yaðýþ oraný çok düþük, gece ile gündüz arasýndaki sýcaklýk farký çok yüksek olan hava karakteri
+ÇULLANMAK: Birini altýna almak için üzerine abanmak
+ÇUVALGÝBÝ: Kaba, geniþ, bol ve ütüsüz kýyafetler için kullanýlan yakýþtýrma yollu bir söz dizisi
+ÇÜRÜKELMA: Çocuk oyunlarýnda sona kalan kiþiye takýlan sinir bozucu lakap
+ÇÜRÜKELMA: Çocuksu rekabetin sona kalan üyesi
+DANÝSKASI: “Âlâsý” veya “aþýrý” anlamlarýnda kullanýlan, Polonya’daki Gdansk þehrini konu eden tabir
+DANKETMEK: Bir anda doðruyu anlamak, aklýndaki sorunun çözümünü bulmak anlamýnda bir deyim
+DARGINLIK: Karþýlýklý küskün olma durumu
+DAVAAÇMAK: Hukuksal bir sorunun çözümü için yargý organlarýna baþvurmak
+DAVULTOZU: Minare gölgesiyle birlikte masal âleminin en popüler büyü malzemesi
+DAYANIÞMA: Bir toplulukta bireylerin duygu ve düþünce birliðiyle birbirlerine baðlanmalarý
+DEFNETMEK: Topraða vermek
+DEFNETMEK: Topraktan geleni topraða geri vermek
+DEKLANÞÖR: Fotoðraf makinelerindeki aný ölümsüzleþtirme düðmesi
+DEKORATÖR: Konut estetisyeni
+DELÝGÖNÜL: Türlü isteklerle kiþiyi zora sokan kalpte oluþan duygularýn kaynaðý
+DELÝFÝÞEK: Çok hareketli ve atak kiþiler için kullanýlan söz
+DEMÇEKMEK: “Ýçki içmek” anlamýnda kullanýlan eski bir tabir
+DEMÝRYOLU: 1435 mm aralýklý iki metal þeridin yere sabitlenmesiyle oluþan ulaþým platformu
+DEMOKRASÝ: Türkçe kökenli karþýlýðý “el erki” olan, tadýndan yenmeyen yönetim biçimi
+DENÝZALTI: Klostrofobik savaþ ve araþtýrma gemisi
+DENÝZALTI: Þiddetli basýnç altýnda ilerleyebilen klostrofobik taþýt
+DENÝZKIZI: Amfibik dilber
+DENÝZKIZI: Sulak yerde büyümüþ mitolojik masal yaratýðý
+DENÝZMÝLÝ: 1852 metrelik bir uzunluk ölçüsü birimi
+DEPLASMAN: Dýþ saha anlamýndaki yabancý kökenli söz
+DEPLASMAN: Sportif gurbet
+DEPRESYON: Ruhsal veya ekonomik bunalým
+DEPRESYON: Ruh tufaný
+DERDEDEVA: Soruna sýkýntýya çare, hastalýða rahatsýzlýða ilaç olan þey
+DEVAYNASI: Nesneleri olduðundan büyük gösteren cilalý ve sýrlý cam
+DEVRÝÂLEM: Eskiden “dünya turu” anlamýnda kullanýlan bir tabir
+DEVRÝDAÝM: Tam ve sürekli dolaþým
+DEVÞÝRMEK: Çarþafý gerdirip düzgün duruma getirerek katlamak
+DIÞADÖNÜK: Ýç dünyasýný yansýtabilen, etrafýndakileri içselleþtirebilen kiþi
+DIÞAVURUM: “Ýfade, anlatým” anlamýnda bir söz dizisi
+DIÞLANMAK: Bir yere veya bir topluluða tavýr konularak alýnmamak
+DÝKKAFALI: Ýnatçý, bildiðinden dönmeyen, laf dinlemeyen
+DÝKKAFALI: Uysal olmayan, inatçý, söz dinlemeyen anlamlarýnda bir birleþik kelime
+DÝLBALIÐI: Adýný yassý þekli nedeniyle yakýþtýrýldýðý bir organdan alan deniz canlýsý
+DÝLDÖKMEK: Ýkna etmek için çokça konuþmak
+DÝLDÖKMEK: Konuþarak ikna etmeye çalýþmak anlamýndaki deyim
+DÝLEKKÝPÝ: Ýstek kavramýný veren dil bilgisi eklerinin genel adý
+DÝLLENMEK: Konuþma yeteneði kazanmak veya önceden tutukken deðiþerek hazýrcevap hale gelmek
+DÝSPANSER: Kelime anlamý “ilaç daðýtým yeri” olup dilimizde saðlýk ocaðý anlamýnda kullanýlan söz
+DÝÞLEKLÝK: Kimilerine belli bir sempatiklik katan ortodontik bozukluk
+DÝYETKOLA: Bol kalorili “fast food” menülerinin yanýnda tüketilerek vicdan azabýný azaltan bir içecek
+DOÐAÇLAMA: “Emprovizasyon” kelimesinin Türkçe kökenli karþýlýðý
+DOÐAÇLAMA: Ýçten gelen esinle yapýlan, emprovize
+DOÐAÇLAMA: Ýrticalen ve emprovize sözlerinin Türkçe kökenli karþýlýðý
+DOÐUBLOKU: Soðuk Savaþ döneminde Sovyetler Birliði ve onun Avrupa’daki müttefiklerini tanýmlamak için kullanýlmýþ bir tabir
+DONGÖMLEK: Üzerinde sadece iç çamaþýrý varken, yarý çýplak denecek kadar soyunmuþ anlamýndaki söz dizisi
+DONGÖMLEK: “Yarý çýplak, yeterince giyinmemiþ hâlde” anlamýnda bir söz dizisi
+DÖKTÜRMEK: Teklifsiz konuþmada marifet isteyen bir iþi hayranlýk uyandýracak kadar iyi yapmak
+DÖLLENMEK: Diþi eþey hücreleri için erkek eþey hücresiyle kaynaþmak
+DÖLYATAÐI: Yaþamýn baþladýðý organ
+DÖNERKAPI: Turnike etkili bina giriþi düzeneði
+DÖRTÝÞLEM: Aritmetiðin yapý taþlarý
+DÖRTÝÞLEM: Eskilerin “amalierbaa” dediði matematik kuarteti
+DÖRTÝÞLEM: Toplama, çýkarma, çarpma ve bölmeye verilen ortak ad
+DUBLEPAÇA: Pantolonun bilek kýsmýna denk gelen bölümünü dýþa katlayarak dikilmiþ hâline verilen ad
+DURAKLAMA: Harekete kýsa bir süreliðine ara verme
+DURGUNLUK: Kriz dönemlerinde piyasalarda hissedilen durum
+DURULAMAK: Kirinden arýndýrýlmýþ olaný sudan geçirmek
+DUVARTOPU: Orijinal ismi “squash” olan ve raketle oynanan sporun Türkçe adý
+DÜNYAÂLEM: Herkes, bütün insanlar anlamýnda bir söz dizisi
+DÜZKONTAK: Motorlu aracý anahtar kullanmadan, çalýþtýrma düzenindeki kablolarý birbirine temas ettirerek iþletme
+ECÝNNÝLER: Halk aðzýnda doðaüstü varlýklarýn genel adý, iyi saatte olsunlar
+ECÝNNÝLER: “Ýyi saatte olsunlar” temennisiyle adlandýrýlan muallak yaratýklar
+EFERVESAN: Türkçe karþýlýðý olarak “fýþýrdayan” sözü önerilen köpürgen tablet
+EGEMENLÝK: Milletin ve onun tüzel kiþiliði olan devletin yetkilerinin tümü
+EKOLOJÝST: Çevre bilimcisi
+EKSANTRÝK: Motor parçalarýnýn baðlantýlarýný ve birlikte çalýþmasýný saðlayan kayýþ
+EKSÝKETEK: Kadýnlara yönelik düpedüz hakaret içeren bir tabir
+EKSPERTÝZ: Bilirkiþi tarafýndan yapýlan inceleme anlamýndaki Fransýzca kökenli söz
+ELARABASI: Genellikle tek tekerlekli olan bir tür nakil aracý
+ELÝMAHKÛM: “Mecbur, yapmak zorunda” anlamýnda bir söz dizisi
+ELYAZMASI: Herhangi bir basým tekniði kullanýlmadan hazýrlanmýþ kitap
+EMEKLÝLÝK: Çalýþanlar için prim ödemeleri ve yaþ þartýnýn gerçekleþmesi sonucu oluþan durum
+EMRÝNOLUR: Genellikle kinaye yollu kullanýlan, “baþüstüne” ünlemine benzer bir tabir
+ENAZINDAN: “Hiç olmazsa” tabiriyle yakýn anlamlý kullanýlan bir söz dizisi
+ENDÜLJANS: Skolastik kefaret senedi
+ENFLASYON: Karikatürlerde ejderha ile dinozor karýþýmý bir yaratýk olarak betimlenen iktisadi olgu
+ENÝKLEMEK: Kedi, köpek gibi hayvanlar için “doðurmak” anlamýnda kullanýlan halk aðzýna yatkýn tabir
+ENTERESAN: Ýlgi çekici, ilginç anlamýndaki Fransýzca kökenli söz
+ERKEKSÖZÜ: Maço vaat
+ERMEYDANI: Ata sporumuzun performans alaný
+ERMEYDANI: Kahramanlýðýn, cesaretin, güç ve yeteneðin sergilendiði mekân
+ESKÝPÜSKÜ: Çok kullanýlmaktan yýpranmýþ, harap olmuþ anlamýnda bir söz dizisi
+ESKÝÞEHÝR: 2 Eylül 1922 tarihinde iþgalden kurtulan ilimiz
+ESPRÝTÜEL: Alafranga nüktedan
+EÞEKKADAR: Hakaret yollu olarak büyük, iri, geliþmiþ, yetiþkin anlamlarýnda kullanýlan söz dizisi
+EÞÝTLEMEK: Ýki veya daha fazla ögeyi nicelik ve nitelik bakýmýndan ayný düzeye getirmek
+EÞLÝKETME: “Refakat” sözünün Türkçe kökenli karþýlýklarýndan biri
+ETEKÖPMEK: Yaltaklanmak, dalkavukluk etmek anlamýndaki söz dizisi
+ETÝMOLOJÝ: Sözlerin soyaðacý ile ilgilenen bilim dalý
+ETLÝBUTLU: Oldukça þiþman, dolgun ve kalýn anlamlarýndaki söz dizisi
+EVCÝÇIKMA: Yatýlý öðrenciler ya da askerler için tatil günlerinde yapýlan rahatlatýcý bir eylem
+EVGEZMESÝ: Sohbet odaklý misafirlik ziyareti
+EVHAYVANI: Ayný meskeni paylaþýp bakýmý üstlenilen köpek, kedi, kuþ gibi canlýlara yönelik genel bir tabir
+EZÝKLEMEK: Argoda “hor görmek, aþaðýlamak” anlamýnda kullanýlan bir söz
+FAKÝRHANE: Alçak gönüllü konut
+FAKTORÝNG: Türkçe karþýlýðý alacaklandýrma olan Ýngilizce kökenli ekonomi terimi
+FANTASTÝK: Sýfat hâliyle “hayalî” anlamýna gelen, bir edebiyat türünün de adý olan söz
+FARZETMEK: Varsaymak, olmuþ veya doðru kabul etmek anlamýndaki söz dizisi
+FEDAETMEK: Uðruna harcamak, gözden çýkarmak anlamlarýndaki söz dizisi
+FENAHÂLDE: Aþýrý ölçüde, son derece, adamakýllý anlamlarýnda kullanýlan söz dizisi
+FEVKALADE: “Alýþýlmýþ olandan üstün” anlamýndaki söz
+FEYZALMAK: Etkilenip ders çýkarmak, örnek görmek
+FIRKATEYN: Bir savaþ gemisi ve bir deniz kuþunun ortak adý
+FITTIRMAK: Teklifsiz konuþmada aklýný yitirmek
+FÝNGÝRDEK: “Aþýrý derecede oynak, cilveli” anlamýnda bir sözcük
+FÝÞEKGÝBÝ: Hýzlý, hareketli, etkili anlamlarýnda kullanýlan yakýþtýrma yollu bir söz dizisi
+FONKSÝYON: Ýþlev anlamýndaki yabancý kökenli söz
+FONMÜZÝÐÝ: Arka plan ezgisi
+FORMALÝTE: Önem verilmediði halde bir zorunluluða baðlý olarak yapýlan biçimsel davranýþ
+FOSÇIKMAK: Beklenenden çok daha düþük nitelikli bir sonuç vermek
+FOSÇIKMAK: Beklenen etkiyi vermemek anlamýnda bir deyim
+FOTOFÝNÝÞ: Yarýþanlarýn varýþ anýný belirleyen aygýt
+FOTOJENÝK: Objektif cazibesi olan
+FOTOMODEL: Poz vermeyi meslek hâline getirmiþ olan kiþi, objektif emekçisi
+GALETAUNU: Özellikle kýzartmalarda kullanýlan bir tür öðütülmüþ besin maddesi
+GARANTÝLÝ: Herhangi bir sorunda geri alma, deðiþtirme güvencesi ile satýlan ürünleri niteleyen söz
+GASÝLHANE: Bedeni son yolculuða hazýrlayan hijyen mekâný
+GASÝLHANE: Hayattaki son hijyen duraðý
+GAZYUVARI: Yeri veya herhangi bir gök cismini saran akýþkan tabaka, atmosfer
+GECEKONDU: Korsan konut
+GECEKONDU: Yapý ve imar kanunlarý kaçaðý
+GECEKONDU: Yapý ve imar kanunlarýna muhalefet eden tez canlý konut
+GELÝNBAÞI: Dünyaevine girecek kadýnlara yapýlan sofistike düðün dernek topuzu
+GEMVURMAK: Atýn aðzýna yönlendirmek için kullanýlan demir bir araç takmak
+GENÇÝRÝSÝ: Battal ergen
+GENÇÝRÝSÝ: Çabuk serpilip büyümüþ yaþý küçük kiþi
+GENÇODASI: Mobilya sektörünün yeni yetmelere yönelik hazýrladýðý renk cümbüþü bütünü
+GENELGREV: Bütün emekçi kesimince uygulanan iþ býrakýmý
+GENÝÞÜNLÜ: A, e, o ve ö harflerini tanýmlayan söz dizisi
+GERÝCÝLÝK: “Ýrtica” sözünün Türkçe kökenli karþýlýðý
+GERÝSAYIM: Yýlbaþý gecelerine ve uzay gemisi fýrlatýlýþlarýna özgü aktivite
+GIYABINDA: Þahsýn kendisi yokken, arkasýndan anlamýndaki zarf
+GÝDERAYAK: “Yola çýkmýþken, yola çýkmak üzereyken” anlamýnda bir tabir
+GÝRÝÞÝMCÝ: “Müteþebbis” sözcüðünün günümüz Türkçesindeki karþýlýðý
+GÝRÝÞÝMCÝ: Ticaret, endüstri gibi alanlara sermaye koyarak el atan kiþi
+GÝRÝÞKATI: Bir apartmanýn sokak düzeyinde yer alan daire veya odalarýnýn bütünü
+GÝÞEFÝLMÝ: Hasýlat hedefli sinema eseri
+GÝYDÝRMEK: Hem aðýr sözlerle hakaret etmek hem de ünlü bir simanýn modacýsý veya kýyafet sponsoru olmak
+GLADYATÖR: “Kýlýç ustasý” anlamýna gelen, Eski Roma döneminin yýldýz savaþçýlarý için kullanýlan söz
+GÖBEKBAÐI: Kordon da denen, gebelik döneminde anne ile bebek arasýndaki hayat köprüsü
+GÖBEKLEME: Atlayan kadar izleyene de acý veren bir suya dalma tekniði
+GÖBEKLEME: Su sporlarýnda yeri olmayan bir tür suya atlama hareketi
+GÖBEKLEME: Suya paralel pozisyonda atlanan dalma þekli
+GÖBEKTAÞI: Kamusal hijyen mekânlarýndaki gevþeten mermer
+GÖKKUÞAÐI: Güneþ ýþýnlarýnýn yansýmasýyla meydana gelen, yay þeklinde görülen meteorolojik bir olay
+GÖREVAÞKI: Kiþinin yüklendiði sorumluluðuna, vazifesine duyduðu sadakat ve sevgi
+GÖZBEBEÐÝ: Mecazi anlamda çok sevilen ve önem verilen kimse
+GÖZDÝKMEK: Bir þeyi ele geçirme isteðine kapýlmak
+GÖZETLEME: Belli etmeden, gizlice izleme
+GÖZKALEMÝ: Bakýþlara anlam katan, yazý ve çizim gereci biçimindeki makyaj malzemesi
+GÖZKAPAÐI: Bir günde ortalama 100.000 kez açýp kapadýðýmýz organýmýz
+GÖZKARARI: Ölçü veya tartý yerine, bakarak belirlenen miktar veya oran
+GÖZTEMASI: Ýki kiþinin bakýþlarla saðladýðý baðlantý
+GÖZYUMMAK: Görmezden gelmek, ses çýkarmayýp müdahale etmemek
+GURULDAMA: Ýnsanýn bedensel iç sesi
+GÜLKURUSU: Mora çalan pembe
+GÜLLEATMA: Bedensel fizik estetiðini çok da ciddiye almayan olimpik bir spor türü
+GÜNEBAKAN: Ayçiçeðinin bir diðer adý
+GÜNEYKÜRE: Dünya’nýn, aralýk sonunda yaz mevsimine giren bölümü
+GÜNSAYMAK: Belli bir tarihi heyecanla beklemek anlamýnda kullanýlan tabir
+HADÝORDAN: Birini kovmak, azarlamak için kullanýlan söz dizisinin halk aðzýndaki kýsaltýlmýþ hâli
+HAFTABAÞI: Pazartesi sendromuyla birlikte adým atýlan zaman dilimi
+HALÇARESÝ: Bir güçlüðü giderme yöntemi, çözüm yolu
+HALÇARESÝ: Çýkar yol, çözüm yolu anlamlarýnda bir söz dizisi
+HALÝFELÝK: “Hilafet” sözünün diðer adý
+HALKADAMI: Yaþadýðý ülkenin tüm kesimlerini yakýndan bilen, toplum tarafýndan sevilen kimse
+HALKPLAJI: Kamusal kumsal
+HÂLLEÞMEK: Karþýlýklý dertlerini anlatmak, dertleþmek
+HÂLSÝZLÝK: Takat, mecal eksikliði
+HALTETMEK: Uygunsuz bir iþte, yakýþýksýz davranýþta bulunmak, nane yemek
+HAMAMTASI: Kurna çanaðý
+HAMAMTASI: Otantik kiþisel temizlik kabý
+HAMBURGER: Küresel köfte ekmek
+HAMBURGER: Küreselleþmiþ ekmek arasý köfte
+HAMSÝKUÞU: Karadeniz’e can veren balýðýn baharat, un, ve yumurtaya bulanarak tavada kýzartýlmýþ hâli
+HAMYAPMAK: Çocuk dilinde ýsýrmak, yemek, yutmak anlamlarýnda kullanýlan bir söz dizisi
+HARAMZADE: Eski dilde yasa dýþý birleþmeden doðan çocuk
+HARCANMAK: Mecazen niteliði, deðeri anlaþýlmamak, yeteneði boþa tüketilmek
+HASIRALTI: Etmek fiiliyle “bir iþi isteyerek, bilerek ve haksýz olarak yürütmemek, örtbas etmek” anlamýna gelen birleþik kelime
+HAVAALMAK: Hem açýk alanlarda bulunmak, dolaþmak hem de beklediðini bulamamak, eli boþ kalmak
+HAVAATIÞI: Basketbolda oyunu baþlatan hareket
+HAVACILIK: “Teker kesmek, teker koymak” tabirlerinin kullanýldýðý ulaþtýrma sektörü
+HAVAÝMAVÝ: Açýk gökyüzü rengi
+HAYALGÜCÜ: Arzularý zihinde canlandýrabilme yetisi
+HAZIRKITA: Gerektiði anda kullanýlmak ve görevlendirilmek üzere teçhizatýyla bekleyen birlik
+HAZIRPARA: Nakit ya da likit anlamýnda kullanýlan söz dizisi
+HAZMETMEK: Mecazi anlamda hoþa gitmeyen bir davranýþý karþýlýksýz býrakmak, içine atmak
+HECEVEZNÝ: Belirli sayýdaki tek solukluk ses kümelerine dayanan þiir ölçüsü
+HELEÞÜKÜR: “Sonunda, nihayet” anlamýnda, minnet tabirine benzer bir söz dizisi
+HÝCVETMEK: Alay yoluyla yermek
+HÝKÂYECÝK: Anekdot, kýssa sözlerinin eþ ve yakýn anlamlý karþýlýðý
+HÝNDÝGÝBÝ: “Düþünmek” fiilini “derin derin, kara kara” anlamlarýyla niteleyen yakýþtýrma yollu söz dizisi
+HÝPNOTÝZE: Etmek fiiliyle “sözle, bakýþla veya telkinle uyku durumuna getirmek”
+HÝPOTENÜS: Bir dik üçgende, karesi diðer iki kenarýn kareleri toplamýna eþit olan kenar
+HÝPOTENÜS: Dik üçgendeki en uzun kenara verilen ad
+HÝPOTENÜS: Sayýlarýn babasý Pisagor tarafýndan keþfedilmiþ olan, dik açýnýn karþý kenarý
+HÝZMETKÂR: Geçimini birinin kiþisel isteklerini yerine getirerek saðlayan kimse
+HÝZMETKÂR: Ücretle iþ gören genellikle erkek iþçi, uþak
+HORLANMAK: Bir topluluk veya kiþi tarafýndan hakir görülmek, küçümsenmek
+HORTLAMAK: Ýllet sayýlan türlü sorunlar için mecazen “yeniden ortaya çýkmak” anlamýnda kullanýlan tabir
+HOÞAFGÝBÝ: Mecazen “aþýrý yorgun” anlamýnda kullanýlan yakýþtýrma yollu bir tabir
+HUSUSÝYET: “Özellik” sözcüðünün Arapça kökenli eþ anlamlýsý
+IRKAYRIMI: Kalýtýmsal olarak ortak fiziksel ve fizyolojik özelliklerden dolayý uygulanan eþitsizlik
+IVIRZIVIR: Önemsiz veya gereksiz görülen her þey için kullanýlan bir söz öbeði
+ÝÇERLEMEK: Belli etmeden alýnmak
+ÝÇERLEMEK: Ýçin için öfkelenmek, gönül koymak, alýnmak
+ÝÇLÝDIÞLI: Samimi ve teklifsizce, yakýn davranarak, yakýndan tanýyarak
+ÝÇLÝDIÞLI: Samimi ve teklifsiz insan iliþkilerini tanýmlayan söz dizisi
+ÝÇLÝKÖFTE: Arap ülkelerinde “kibbe” de denen bulgur, kýyma, kuyruk yaðý, soðan ve baharatla yapýlan bir yiyecek
+ÝDAREEDER: “Fena deðil, iþ görür” anlamlarýnda kullanýlan tabir
+ÝFTARTOPU: Dönemsel olarak akþam yemeði vaktini bildiren patlayýcý
+ÝÐNEOYASI: Ýnce dantel iþlemesi
+ÝHTARNAME: Protesto da denen resmî uyarý yazýsý
+ÝHYAOLMAK: Hayat þartlarýnýn geliþmesiyle mutluluða kavuþmak
+ÝLERÝÜÇLÜ: Futboldaki forvet triosu
+ÝLGÝODAÐI: “Olmak” fiiliyle, “çevrenin tüm dikkatini üzerinde toplamak” anlamýna gelen söz dizisi
+ÝLÝMÝRFAN: Bilim, kültür, anlayýþ ve sezme gücü anlamlarýnda eski, kalýplaþmýþ bir tabir
+ÝMÝTASYON: Taklit, sahte ya da yapay anlamýnda kullanýlan yabancý kökenli bir söz
+ÝMPARATOR: “Ýlhan” da denen hükümdarlýk unvaný
+ÝMPARATOR: Kendi topraklarýnda oturan çeþitli milletleri kendi egemenliði altýnda toplayan kiþi
+ÝMPARATOR: Latince kökenli “askerî kumandan” anlamýndaki sözden türemiþ olan, hükümdara yönelik bir unvan
+ÝNCEAYRIM: “Nüans” sözünün Türkçe kökenli karþýlýðý olan söz dizisi
+ÝNDÝBÝNDÝ: Dolmuþ ve minibüslerdeki çok kýsa mesafeli yolculuklara verilen ad
+ÝNDÝBÝNDÝ: Minibüs ve dolmuþlarla yapýlan kýsa mesafeli yolculuklarda ödenen en düþük ücret
+ÝNÝÞÇIKIÞ: Mecazen baþarý ve baþarýsýzlýk, gerileme ve yükseliþ anlamlarýnda kullanýlan bir söz dizisi
+ÝNORGANÝK: Sýfat hâliyle “cansýz olan” anlamýndaki biyoloji terimi
+ÝNSANOÐLU: Doðaya zararlý bir canlý türü
+ÝNSANOÐLU: Kendini ve geliþimini doðanýn düzenine býrakmayan tek canlý türü
+ÝNSANÜSTÜ: “Âdem evladýnýn gücünü ve yeteneklerini aþan” anlamýnda bir tabir, fevkalbeþer
+ÝPLEMEMEK: Argoda deðer ve önem vermemek, aldýrýþ etmemek anlamýndaki söz
+ÝSÝMÞEHÝR: Grupça oynanan alfabetik beyin jimnastiði
+ÝSKELETOR: He-Man’in can düþmaný
+ÝSTEMEDEN: “Gayriihtiyari” sözünün günümüz Türkçesindeki karþýlýklarýndan biri
+ÝSTÝRÝDYE: Aristokrat midye
+ÝSTÝRÝDYE: Canlý mücevher kutusu
+ÝÞBÝRLÝÐÝ: Amaç ve çýkarlarý bir olanlarýn oluþturduklarý çalýþma ortaklýðý
+ÝÞBÝRLÝÐÝ: Eskilerin teþrik-i mesai dediði, bir gaye uðruna kurulan çalýþma ortaklýðý
+ÝÞDÜNYASI: Üretim, ticaret ve ekonomi âlemi
+ÝÞEGÝRMEK: Ücret karþýlýðý çalýþacaðý bir göreve veya iþletmeye alýnmak
+ÝÞÝNSIRRI: Bir uðraþýnýn bilgi, yetenek, deneyim ve sezgi ile kavranabilen en zor, en ince ve gizli kalmýþ yaný
+ÝÞMERKEZÝ: Plaza sözünün Türkçe karþýlýðý
+ÝZLÝMERMÝ: Atýþýn gözlenmesi, hedef iþareti býrakma, yangýn çýkarma gibi amaçlarla kullanýlan mühimmat türü
+JAPONKALE: Ýkiden fazla takýmla veya her oyuncunun tek baþýna mücadele ederek oynadýðý sokak futbolu oyunu
+JENERATÖR: Elektrik akýmý üreteci
+JÝNEKOLOG: Kadýn hastalýklarý uzmaný
+KABAKTADI: Vermek fiiliyle “aþýrý tekrarlanmasý sebebiyle býktýrmak, istenmez duruma gelmek”
+KABULGÜNÜ: Ev hanýmý resepsiyonu
+KABULGÜNÜ: Ev hanýmlarý arasýnda yaygýn olan, yeme içme aðýrlýklý toplantý
+KABULGÜNÜ: Ev hanýmlarý için sosyal kariyer sýnavý
+KAÇKARLAR: Kelime anlamý sarp, kayalýk yerler olan, Doðu Karadeniz sahili boyunca uzanan dað silsilesinin adý
+KADINBUDU: Müstehcen köfte
+KAFADENGÝ: Görüþ ve anlayýþ yönünden birbirine uyan kiþiler için kullanýlan bir söz dizisi
+KAFALAMAK: Argoda kandýrmak veya ikna etmek anlamýnda kullanýlan söz
+KÂÐITGEMÝ: Kare biçimindeki bir sayfayý kendi üzerine katlayarak 6 hamlede imal edilen bir oyuncak
+KÂÐITPARA: Polimerden, saf pamuk gibi materyallerden yapýlan bir tür ödeme aracý
+KAHVEFALI: Mistik telve tefsiri
+KAHVEFALI: Telveli kehanet
+KAHVEHANE: Bay ocaðý
+KAHVEHANE: Otantik erkek sýðýnaðý
+KALDIRMAK: Alt anlamlarýndan biri de tören yaparak ölüyü gömmek olan söz
+KALGELMEK: Sokak jargonunda “ne yapacaðýný bilmeden duraklamak, tepkisizleþmek”
+KALKINMAK: Zenginleþmek, aþamalý biçimde geliþip ilerlemek, bayýndýr hâle gelmek
+KANBAÐIÞI: Sývý aktarýmý yoluyla yapýlan yaþamsal hibe
+KANÇANAÐI: Yorgun ve kýzarmýþ gözlere yakýþtýrýlan tabir
+KANÇIBANI: Kýl kökünden baþlayarak deri altý dokusunu saran ve deride þiþkinlikle beliren irinli kabartý
+KANDAVASI: Namus ve töre kisvesine bürünmüþ çift yönlü seri cinayetler
+KANSIZLIK: Anemi hastalýðýnýn Türkçe kökenli adý
+KAPIALMAK: Tavlada ayný haneye en az iki pul koymak
+KAPORTACI: Çeþitli eklemelerle otomobilin aerodinamiðini deðiþtirebilen kiþi
+KARABASAN: Kâbus vurgunu
+KARABORSA: Esnaf ahlakýnýn bulunmadýðý ticaret türü
+KARABORSA: Yüksek talep, düþük arz dolayýsýyla ortaya çýkan ahlaksýz ticaret platformu
+KARACAHÝL: Hiç öðrenim görmemiþ, okumamýþ, tamamen bilgisiz olan kiþi
+KARADELÝK: Çok yüksek çekim kuvvetine sahip olan kozmik kapan
+KARADELÝK: Kozmik girdap
+KARADELÝK: Uzay-zamanýn göz bebekleri
+KARAKOVAN: Geleneksel arýcýlýkta kullanýlan bir tür arý barýnaðý
+KARAKUCAK: Kökeni Orta Asya’ya uzanan, serbest stilde yað sürülmeden yapýlan en eski, geleneksel Türk güreþi
+KARAKUCAK: Serbest biçimdeki geleneksel Türk güreþi
+KARAKULAK: Kedigillerden, çakala benzer vahþi bir hayvan
+KARAMÝZAH: Buruk güldürü
+KARAMÝZAH: Ciddi konularý ele alan hicivle karýþýk güldürü
+KARAMÝZAH: Dramý komediye çeviren güldürü türü
+KARARINCA: Gerektiði ölçüde, gerektiði gibi anlamlarýnda bir söz
+KARASABAN: Pulluðun atasý olan ilkel bir tarým aleti
+KARASABAN: Topraðý sürerken fazla derine inmeyen ilkel tarým aracý
+KARASEVDA: Umutsuzca beslenen aþýrý sevgi ve baðlýlýk duygusu
+KARAYAÐIZ: Esmer delikanlýlar ve siyah donlu atlar için kullanýlan gösteriþli söz dizisi
+KARAYEMÝÞ: Özellikle Karadeniz Bölgesi’nde doðal olarak yetiþen bir aðacýn ve siyah renkteki meyvelerinin adý
+KARÝKATÜR: Genellikle hicivle süslenen mizahi resim sanatý
+KARKÜRESÝ: Ýçine kýþ manzarasý hapsedilmiþ, seyirlik hediyelik eþya
+KARKÜRESÝ: Ýçine minyatür kýþ manzarasý hapsedilmiþ cam fanus
+KARMAOKUL: Kýzlý erkekli eðitim öðretim tesisi
+KARÞICÝNS: Eþeysel özellikleri konu alarak erkek için kadýný, kadýn için erkeði tanýmlayan tabir
+KARÞIETKÝ: “Reaksiyon” sözünün Türkçe kökenli karþýlýðý
+KARTANESÝ: Havada beyaz ve hafif billurlar biçiminde donarak yaðan su buharýnýn her bir parçacýðý
+KARTATÝLÝ: Kýþ aylarýnda doða ananýn öðrencilere bahþettiði dinlence ve eðlence dönemi
+KASIMPATI: Krizantem bitkisinin Türkçe kökenli adý
+KASTAMONU: “Ýnebolu” ilçesinin baðlý olduðu il
+KASTIRMAK: Sokak jargonunda zorlamak, uðraþmak, efor sarf etmek anlamýnda kullanýlan söz
+KASTÝFAUL: Spor karþýlaþmalarýnda oyuncunun planlý olarak yaptýðý kural ihlali
+KATAMARAN: Birbirine baðlanmýþ iki tekneden oluþan ve gezi tekneciliðinde kullanýlan deniz taþýtý
+KATAMARAN: Çift tekneli deniz taþýtý
+KAYIKYAKA: Boyun bölümü omuzlarý sergileyecek kadar geniþ olan giysileri niteleyen bir söz dizisi
+KAYITDIÞI: Ekonominin belgelenmemiþ kýsmý için kullanýlan tabir
+KAYKILMAK: Yaslanarak, yayýlarak oturmak
+KEFENBEZÝ: Defin dokumasý
+KEREMGÝBÝ: Yakýþtýrma yollu olarak aþk ateþiyle yanan kiþiler için kullanýlan bir söz dizisi
+KESELENME: Alaturka “peeling”
+KESELÝLER: Tazmanya canavarýnýn da üyesi olduðu canlý sýnýfýnýn adý
+KESSESÝNÝ: “Sus” anlamýnda kullanýlan sert bir uyarý sözü
+KESTÝRMEK: Hem tahmin etmek hem anlamak, farkýna varmak hem de uyuklamak anlamlarýna gelen söz
+KIÇIKIRIK: Sanki bir küfürmüþ gibi algýlanan, “önemsiz, deðersiz, kýtipiyoz” anlamýndaki söz dizisi
+KILLANMAK: Argoda þüpheye düþmek
+KIRÇÝÇEÐÝ: Dar gelirli âþýklarýn sevgililerine verebilecekleri ideal hediye
+KIRDÜÐÜNÜ: Pastoral evlilik seremonisi
+KISADEVRE: Elektrik akýmýndaki rota kaymasý
+KIÞUYKUSU: Kimi canlýlarda görülen iklimsel rehavet
+KITKANAAT: Geçinmek fiiliyle “yoksulluk içinde, güçlükle geçinmek” anlamýna gelen söz dizisi
+KIZGINLIK: Hayvanlardaki çiftleþme isteðine, dönemine verilen ad
+KÝMÝZAMAN: “Ara sýra, bazen” anlamýnda bir sözcük dizisi
+KÝNDUYMAK: Birine karþý öç alma isteði içinde olmak
+KÝRLÝÇIKI: Kamufle zengin
+KÝRLÝÇIKI: “Parayla imanýn kimde olduðu belli olmaz.” atasözünü ekonomik yönden doðrulayan kiþi
+KÝRLÝÇIKI: Sinsi tabiatlý varyemezlere yönelik bir tabir
+KLEOPATRA: Sedir Adasý’ndaki ve Alanya’daki iki plaja birden adýný veren tarihî þahsiyet
+KOALÝSYON: Ortak yönetim anlamýndaki Fransýzca kökenli söz
+KOCAOÐLAN: Mazide kalmýþ dansçý ayýlara verilen bir lakap
+KOLALAMAK: Gömlek, örtü gibi þeyleri, sert ve parlak olmasý için özel niþastalý bir suya batýrýp ütülemek
+KOMANDOER: Üst nitelikli fiziki ve kuramsal eðitim almýþ rütbesiz asker
+KOMPRESÖR: Bir akýþkaný gereken basýnca göre sýkýþtýrmaya yarayan alet
+KONDÝSYON: Bir sporcunun fiziksel ve ruhsal durumu
+KONTENJAN: Bir kurum veya kuruluþun seçip alabileceði sayý miktarý
+KONTEYNER: “Ýçermek, kapsamak” anlamýndaki Ýngilizce sözden türetilen, deniz yolu taþýmacýlýðýnýn en yaygýn standart kutusu
+KONTEYNER: Uluslararasý standartlardaki metal yük kasasý
+KONTRPÝYE: Sporcunun yanýlma hareketi
+KONTRPLAK: En az üç kaplamanýn üst üste tutkallanmasýndan oluþan, ince, esnek tahta
+KONUKOMÞU: Birbirine yakýn yerde oturan kimseler anlamýnda bir söz dizisi
+KONUÞMACI: “Hatip” sözünün Türkçe kökenli karþýlýðý
+KOORDÝNAT: Apsis, kod ve ordinatýn ortak adý
+KOPYALAMA: Bir þeyin aynýsýný veya benzerini yapma ya da çoðaltma
+KOREOGRAF: Dans kurgucusu
+KORKAKLIK: Güç, tehlike ve zorbalýða karþý durabilecekken çekinme, sakýnma ve ses çýkarmama hâli
+KOYUNGÝBÝ: Bir hayvaný konu eden, “buyruklara koþulsuz uyan, ezik ve fazla uysal” anlamlarýnda kullanýlan yakýþtýrma yollu bir tabir
+KOYVERMEK: Oluruna býrakmak
+KÖKSALMAK: Bitkiler için “topraða baðlayýcý olan bölümleri geliþmek” anlamýnda kullanýlan bir söz dizisi
+KÖPEKGÝBÝ: Yakýþtýrma yollu olarak “çok yaltaklanan, aþýrý sadýk” anlamlarýnda kullanýlan bir söz dizisi
+KÖPEKLEME: Resmî yarýþmalarda yer almayan bir yüzme stili
+KÖPEKSOYU: Daha çok çizgi romanlar ve tarihî Türk filmlerinde karþýmýza çýkan bir hakaret sözü
+KÖPRÜALTI: Gariban barýnaðý olarak da kullanýlan, iki yakayý birbirine baðlayan yapýlarýn yere bakan kýsmý
+KÖRÜKGÝBÝ: Kuvvetli akciðerler için kullanýlan yakýþtýrma yollu söz dizisi
+KÖÞEBUCAK: “Her taraf” anlamýnda kullanýlan bir söz dizisi
+KÖTÜHUYLU: Öldürme tehlikesi olan, habis hastalýklarý ve illetleri niteleyen bir söz dizisi
+KREDÝNOTU: Ekonomik itibar derecesi
+KRONOLOJÝ: Zaman bilimi
+KULAKZARI: Ses dalgalarýný titreþime çeviren organ parçasý
+KURBANLIK: Adak olarak ayrýlmýþ hayvan
+KURUKEMÝK: Çok zayýf kimseler için kullanýlan bir söz dizisi
+KURUSOÐUK: Yaðýþsýz havadaki ýsýran ýsý, ayaz
+KURYAPMAK: Hoþlanýlan kiþinin duygularýný okþayacak biçimde davranarak gönlünü kazanmaya çalýþmak
+KUÞBAKIÞI: Yüksek bir yerden aþaðýya doðru, bütün geniþliði içine alacak biçimde olan görünüþ
+KUZEYDOÐU: Poyraz rüzgârýnýn estiði yön
+KÜLLENMEK: Ruhsal acýlar için mecazen “unutulur gibi olmak” anlamýnda kullanýlan söz
+KÜTÜPHANE: Sessizlik kuralýyla yararlanýlan kamusal bilgi deposu
+LAFDALAÞI: Sözlerle yapýlan kavga
+LEBÝDERYA: Eski dilde deniz kenarý
+LEVAZIMAT: “Gerekenler” anlamýna gelen, askerî araç gereçlerin tümü için kullanýlan bir söz
+LÝFLÝGIDA: Birçok sebze ve meyve, kepek ekmeði gibi tam tahýl ürünleri ve baklagiller için kullanýlan genel ad
+LÝMONKÜFÜ: Yeþile çalan mavi renk
+LÝNKHATTI: Ýki nokta arasýnda haberleþmeyi saðlayan bir sistem
+LÝTERATÜR: Edebiyat ya da kaynak anlamlarýndaki yabancý kökenli söz
+LÝTERATÜR: Edebiyat, yazýn veya herhangi bir bilim dalýnda yazýlmýþ olan yazý veya eserlerin bütünü
+LOHUSALIK: Yeni anne olmuþ kiþilerin geçirdiði “nifas” da denen dönem
+LOKOMOTÝF: Bir ulaþtýrma aracýnýn mecazen bir alan ve sektördeki itici güç anlamýnda da kullanýlan adý
+LOKOMOTÝF: Demir yolu römorkörü
+MAHALLELÝ: 5393 sayýlý Belediye Kanunu’na göre ayrýlmýþ idari birimde komþuluk iliþkisi içinde olanlar
+MAHALLELÝ: Komþuluk iliþkileri olan, ayný yerleþim yerini paylaþan topluluk
+MAHMURLUK: Uykunun yükünü üzerinden atamama durumu
+MANDALÝNA: Nova, klementin, satsuma gibi türleri bulunan bir meyve
+MASRAFSIZ: Bakýmlý, tadilat gerektirmeyen, yeni sahibine maddi külfet çýkarmayacak satýlýk mallarý niteleyen bir söz
+MATEMATÝK: Eskiden riyaziye denen bilim
+MATEMATÝK: Sayý, ölçü temeline dayanarak nicelikleri inceleyen bilim dalý
+MAVÝEKRAN: Malum iþletim sisteminin hata vermesi hâlinde ortaya çýkan, kullanýcýyý monitöre düþman eden durum
+MAYMUNCUK: Adapte olan anahtar
+MEDENÝYET: Ýstiklal Marþýmýzýn dördüncü kýtasýna göre, eski zamanlardan beri var olan, can veren, can alan, insan aklýnýn eseri olup insaný esir alan, hars ve bilim bileþkesi
+MELANKOLÝ: Asýl anlamý “kara sevda” olmasýna raðmen daha çok “hüzün” anlamýnda kullanýlan Fransýzca kökenli söz
+MELANKOLÝ: Eskiden malihülya denen, türlü nedenlerle veya belirsizce dalýnan çöküntü durumu, hüzün
+MELANKOLÝ: Þiirsel hüzün
+MEMELÝLER: Bilimsel sýnýflandýrma adýný diþi üyelerinin bir niteliðinden alan canlý sýnýfý
+MERKEZKAÇ: “Santrifüj” olarak da bilinen fizik terimi
+METAFÝZÝK: Duyularýmýzla algýlayamadýðýmýz varlýklarýn temellerini araþtýran felsefe, doðaötesi
+MIZMIZLIK: Her þeyde bir kusur bulma, hiçbir þeyden memnun olmama hâli
+MÝLÇEKMEK: Kýzgýn ince demirle gözleri daðlamak
+MÝLLÎMARÞ: Ulusal baðýmsýzlýðý simgeleyen müzik parçasý
+MÝNNETTAR: Yapýlan iyiliðe karþý gönül borcu olan kiþi
+MÝRASYEDÝ: Ýþtahlý vâris
+MÝRASYEDÝ: Müsrif vâris
+MÝRASYEDÝ: Kalýtýmsal birikim düþmaný
+MÝRASYEDÝ: Veraset yoluyla mal ve kazanç saðlamýþ kiþilere yakýþtýrýlan, çok da hoþ karþýlanmayan bir tabir
+MODAÝKONU: Giyim tarzý ve zevkiyle dikkat çeken, adýndan geniþ çapta söz ettiren kiþi
+MODERATÖR: Forumlarda konu silme, düzenleme, kilitleme gibi yetkileri bulunan olay yöneticisi
+MODERATÖR: Tartýþma oturumlarý ve internet forumlarýndaki olay yöneticileri için kullanýlan bir söz
+MONSENYÖR: Hristiyanlýkta yüksek aþamalý din adamlarýna verilen unvan
+MUHALEFET: “Karþý olma durumu, aykýrýlýk” anlamýna gelen, demokraside iktidarýn dýþýnda olan parti veya partiler
+MUHALLEBÝ: Bir sütlü tatlýnýn, süt anlamýna gelen Arapça kökenli “halab” sözünden türemiþ olan adý
+MUTAASSIP: Düþüncesi ve inanýþý dýþýndaki fikirlere kapalý olan kiþi
+MÜNASEBET: Ýliþki anlamýna gelen, sebep, gerekçe anlamýnda da kullanýlan Arapça kökenli söz
+MÜSTEHCEN: Edebe aykýrý sayýlacak ölçüde açýk saçýk
+MÜTEAHHÝT: Kelime anlamý “yüklenici, ne iþ yapacaðýný taahhüt eden” olan bir mesleki unvan
+NARÇÝÇEÐÝ: “Vermiyon” da denen kýrmýzýnýn canlý bir tonu
+NARENCÝYE: Bol sitrik asit içeren bir meyve familyasýnýn adý
+NATÜRMORT: Türkçe karþýlýðý “ölüdoða” olan resim tarzý
+NAZLANMAK: Kolayca gönlü olmamak, ýsrar beklemek
+NÝKÂHAKDÝ: Dünyaevine giriþ sözleþmesi
+OLÝMPÝYAT: Tarihin en köklü spor organizasyonu
+OMURGASIZ: Sölenterler, yumuþakçalar, eklem bacaklýlar için kullanýlan, mecazen bir tavrý, duruþu olmayan, kaypak anlamýna gelen söz
+OPERASYON: Güvenlik güçlerince suçlularýn yakalanmasý için düzenlenen dizi eylem
+OPSÝYONEL: “Ýsteðe baðlý” anlamýnda kullanýlan Fransýzca kökenli bir sözcük
+ORANTISIZ: Saðduyusunu kaybetmiþ “güç kullanýmý”ný niteleyen söz
+ORGANÝZMA: Canlýyý oluþturan organlar bütünü
+ORTAKÖZNE: Cümledeki bildirilen birden fazla iþi yapan kiþi ya da þey
+OSMANLICA: “Eski Türkçe” de denen, Arapça ve Farsçanýn etkisi altýnda kalmýþ Türk dili
+OTOKRÝTÝK: Öz eleþtiri sözünün yabancý kökenli karþýlýðý
+OTOSANSÜR: Baskýdan bunalan medya çalýþanýnýn yoðurdu üfleyerek yeme çabasý
+OTOSANSÜR: Daha çok iletiþim ve yayýn sektöründe kurum ve kiþilerin kendi kendilerine uyguladýklarý kýsýtlama
+OYALANMAK: Vakit geçirme amacýyla bir þeylerle ilgilenmek
+OYMAKBAÞI: Ýzcilikte küçük birlik lideri
+OYSANDIÐI: Demokratik çözüm kutusu
+OYSANDIÐI: Doðru seçenekleri sunmasý ümit edilen demokrasi kutusu
+OZONOSFER: Dünya’yý çepeçevre saran morötesi ýþýn süzgeci
+OZONOSFER: Gök kubbenin ultraviyole ýþýn filtresi
+ÖDÜKOPMAK: Korkuyu safra kesesinde hissetmek
+ÖDÜKOPMAK: Safra kesesine kadar irkilmek, çok korkmak
+ÖÐÜTLEMEK: Birine bir þeyi yapmasýný veya yapmamasýný salýk vermek, nasihat etmek
+ÖLMEHAKKI: “Ötanazi”nin Türkçedeki karþýlýðý
+ÖTEYANDAN: Diðer taraftan, baþka bir yönden, karþýlýk olarak anlamlarýndaki söz dizisi
+ÖZELHAYAT: Þahsa özgü yaþam tarzý ve bu tarzýn doðurduðu yaþantý
+ÖZELKALEM: Bir üst düzey yöneticinin görüþmelerini düzenleyen, gizlilik derecesindeki yazýþmalarýný yapan kimse
+ÖZELPLAKA: Taþýt sahibinin isteði doðrultusunda düzenlenen taþýt numarasý levhasý
+ÖZELPLAKA: Üzerindeki harf ve rakamlar talep edenin isteði doðrultusunda belirlenen araç kimliði
+PAÇALIDON: Dizlere kadar inen, bir tür alt beden çamaþýrý
+PARALAMAK: Üstünü baþýný yýrtarak, hýrpalayarak dövmek
+PARAMEDÝK: “Acil týp teknikleri” anlamýnda kullanýlan Batý kökenli bir terim
+PARAÞÜTÇÜ: Hava indirme birliklerinde görevli komandolarýn bir diðer ön adý
+PARKMETRE: Teknolojik deðnekçi
+PARMAKÝZÝ: Organik imza
+PASGEÇMEK: Bazý iskambil oyunlarýnda o ele katýlmamak
+PASTÖRÝZE: Isýtma ve þok soðutma yöntemi ile mikroorganizmalardan arýndýrýlmýþ anlamýndaki söz
+PEMBEDÝZÝ: Aþk, nefret, entrika ve trajedi konularýnýn iþlendiði, uzun süreli televizyon serisi
+PEMBEDÝZÝ: Baðýmlýlýk yaratan drama türü
+PENÝSÝLÝN: Ýlk olarak küf mantarýndan elde edilmiþ olan mikrop savaþçýsý
+PERAKENDE: Mallarýn teker teker veya birkaç parça hâlinde satýlmasýna dayanan satýþ biçimi
+PEYAKÇESÝ: Kaporadan farklý olarak sözleþme fes edildiðinde geri alýnabilen ön ödeme
+PEYGAMBER: Aracý Allah’a emanet ilerleten bir vites konumunun halk aðzýndaki ön adý
+PIRTLAMAK: Bulunduðu yerden kayýp, fýrlayýp dýþarý çýkmak
+PÝSYEDÝLÝ: Eldeki kartlarý bitirmeye, rakibe ceza yedirmeye yönelik bir iskambil oyunu
+PÝÞTÝOLMA: Argoda birbirinden habersiz olarak ayný kýyafeti giyme
+POLÝFONÝK: Cep telefonu melodileriyle birlikte gündelik konuþmalara giren müzik terimi
+PORTMANTO: Kapý önlerindeki daðýnýklýk toplayýcýsý
+PORTMANTO: Kýþ aylarýnda daha sýk kullanýlan bir tür iþlevsel mobilya
+POSCÝHAZI: Meslek etiði gereði müþteriye görmezden gelerek takdim edilen aygýt
+POSCÝHAZI: Uzaklara bakarak müþteriye uzatýlan elektronik alet
+POSTAKODU: Daðýtým ve yazýlý iletiþimin düzenlenmesi için kentlerin bölgelerine göre verilen sayýlar
+POSTAPULU: Lisandan deðil dilden faydalanýlarak kullanýlan bir iletiþim materyali
+POTKIRMAK: “Çam devirmek” tabiriyle eþ ve yakýn anlamlý bir baþka tabir
+PREFABRÝK: Duvar, kapý, pencere ve diðer elemanlarý önceden hazýrlanýp monte edilerek inþa edilen konut
+PRESLEMEK: Ayný isimli baský makinesi ile sýkýþtýrmak
+PROJEKTÖR: Görüntü yansýtým aygýtý
+PROMOSYON: “Özendirme” ürünü veya kampanyasý
+PROVÝZYON: Bir çekin para olarak karþýlýðý veya ödeme yapýlacak hesabýn müsait olduðu yönünde alýnan ön onay
+RAHMETLÝK: Merhamet ve baðýþlanmasý için dua edilen merhum
+RAPTETMEK: Bir þeyi bir yere iliþtirmek, tutturmak
+REAKSÝYON: Karþý etki, tepki
+RECMETMEK: “Taþa tutarak öldürmek” anlamýndaki Arapça-Türkçe melezi bir söz
+REFAKATÇÝ: Doktor ve yatan hasta iliþkisine yancý olarak katýlan kiþi
+REFAKATÇÝ: Gönüllü hasta bakýcý
+REFLEKTÖR: Türkçe karþýlýðý “yansýtýcý” olan gerecin yabancý kökenli adý
+REZERVUAR: Tuvalet suyu deposu
+ROLÇALMAK: Tiyatro veya sinemada diðer oyuncunun performansýný haince perdeleyip seyircinin ilgisini kendi üzerine çekmek
+ROMANTÝZM: Duygusallýðýn konsantre hâli
+ROMANTÝZM: Duygusallýk sanatý
+ROMANTÝZM: Yârla karýþýk yaðmur
+ROMATÝZMA: Kaslarda ve özellikle eklemlerde kendini gösteren aðrýlý hastalýklarýn genel adý
+RÖNTGENCÝ: Argoda göz banyosunu dikizciliðe çevirmiþ olan kiþi
+RUSRULETÝ: Deneyim sahibi olacak kadar oynanamayan bir kumar türü
+RUSRULETÝ: En riskli kumar türü
+RUSRULETÝ: Kumar hâline getirilmiþ bir intihar yöntemi
+RÜYAÂLEMÝ: Uykuda görülen spiritüel evren
+SABIRTAÞI: Olacaðýný veya geleceðini umduðu bir þeyi telaþ göstermeden bekleyen, dayanç abidesi kiþilere yönelik tabir
+SAFTUTMAK: Hem bir sýraya girmek hem de bir gruba, tarafa katýlmak anlamlarýnda kullanýlan söz dizisi
+SAHAAMÝRÝ: Beden Terbiyesi Ýl Müdürlüðü tarafýndan oyun alanlarýný düzenlemek üzere görevlendirilen yetkili
+SAHTERAKI: Metil alkolden yapýlan aslansütü imitasyonu
+SALYANGOZ: Çok soðuk havalarda donan, çok sýcak havalarda kuruyan, geçtiði yerde iz býrakan kabuklu hayvan
+SALYANGOZ: Sarmal kabuklu yumuþakça
+SAMANYOLU: Gök kubbenin bel kemiði
+SAMANYOLU: Havanýn açýk, etrafýn ýþýksýz olduðu gecelerde görülebilen gökyüzündeki ýþýk kuþaðý
+SAMANYOLU: Yunan mitolojisine göre Hera’nýn göðsünden akan sütlerden oluþan galaksi
+SANALÂLEM: Ana akým tarafýndan terk edilip sosyal medyaya mahkûm kalan vatandaþýn tutunduðu dal
+SANALKART: Ýnternet alýþveriþinin daha güvenle yapýlmasýný saðlayan ödeme aracý
+SANTÝGRAM: Bir kilonun yüz binde birine eþit olan ölçü birimi
+SANTÝGRAT: Suyun buza dönüþme eþiðini “0” olarak kabul eden ýsý ölçeði
+SARGIBEZÝ: Medikal dokuma
+SATIRBAÞI: Paragraflarýn ilk kelimesini kâðýda dökerken boþ býrakýlan yer
+SAYESÝNDE: Asýl anlamý “gölgesinde” olup, “aracýlýðýyla, yardýmýyla, korumasýnda” anlamýnda kullanýlan bir söz
+SAYIFARKI: “Averaj” sözünün Türkçe karþýlýðý olan söz dizisi
+SAZTAKIMI: Türk müziðinde ut, keman, kanun gibi aletleri çalanlarýn oluþturduðu topluluk
+SEBEBÝYET: “Bir þeye, bir olaya yol açma, neden olma” anlamýndaki eski bir söz
+SEFERTASI: Sosyal hayat ve yemek alýþkanlýklarýndaki deðiþiklikle tarihe karýþmaya yüz tutan pratik yemek kabý
+SEMPOZYUM: Bilgi þöleni de denen bilimsel toplantý
+SERPÝLMEK: Geliþmek, büyümek, boy atmak anlamýndaki söz
+SERTÜNSÜZ: “Çift Haseki Paþa” formülünün sessiz harflerine verilen ad
+SERTÜNSÜZ: “Çift Haseki Paþa” ve “Fýstýkçý Þahap” ile karakterize edilmiþ, alfabemizin 8 karakterinin ortak adý
+SESDUVARI: Saatte ortalama 1200 km’ye ulaþan bir hava taþýtýnýn karþýlaþtýðý basýnç engeli
+SEVGÝSELÝ: Ýlgi ve baðlýlýk duygusunun yoðun bir biçimde sergilenmesi
+SEYRETMEK: Daha çok deniz taþýtlarýna yönelik kullanýlan, “ilerlemek, yol almak” anlamýnda bir söz
+SICAKRENK: Kýrmýzý, turuncu ve sarýya verilen ortak ad
+SIFIRHATA: Ýstatistiksel olarak hiçbir yanlýþ, kusur veya yanýlgý bulunmayan durumlarý tanýmlayan söz dizisi
+SIHHÝYECÝ: Orduda basit saðlýk iþlerini görebilecek kadar bilgi ve deneyimi olan er veya erbaþ
+SIRROLMAK: Akýlalmaz bir biçimde ortadan kaybolmak
+SIZLANMAK: Yakýnarak þikayet etmek
+SÝBERUZAY: “Sanal âlem” ile eþ anlamlý fakat onun kadar yaygýn kullanýlmayan bir tabir
+SÝLBAÞTAN: Önceden yapýlanlar göz önüne alýnmadan, yeniden
+SÝLKÝNMEK: Ani bir hareket yaparak vücudunu sarsmak
+SÝLKÝNMEK: Diri duruma gelmek ya da üzerindeki bir þeyi düþürmek için ani bir hareketle vücudunu sarsmak
+SÝLKÝNMEK: Mecazi anlamda bir þeyi üstünden atmak, ondan kurtulmak
+SÝNDÝRMEK: Korkutarak susturmak
+SÝNDÝRMEK: Korkutup yýldýrarak tepki veremeyecek duruma getirmek
+SÝNÝRKÜPÜ: Asabiyeti kiþilik özelliði hâline getirmiþ kiþilere yönelik kullanýlan bir tabir
+SOBELEMEK: Bir çocuk oyunundan yola çýkarak mecazen “yakalamak” anlamýnda kullanýlan söz
+SOFRATUZU: Yemeklerde kullanýlan iyot bakýmýndan zengin, iþlenmiþ sodyum klorür
+SOMURTMAK: Küskünlüðünü, sýkýntýsýný, keyifsizliðini yüzüne yansýtmak
+SONDÖRDÜN: Ay yuvarlaðýnýn sol yarýsýný aydýnlýk gördüðümüz evre
+SONSUZLUK: Sekiz rakamýnýn yan yatmýþ haline benzeyen iþaretin simgelediði olgu
+SOYAÇEKÝM: “Kalýtým” sözcüðünün eþ anlamlýsý olan bir söz dizisi
+SÖZKESMEK: Evlilik için prensipte anlaþmak
+SÖZKESMEK: Sevgililik müessesesine resmiyet kazandýrmak
+SÖZVERMEK: Bir iþi yapacaðýný kesinlikle bildirmek
+SPÝNATMAK: Kendi ekseni etrafýnda dönmek anlamýnda melez bir tabir
+STETOSKOP: Kalp ritmini dinlemek için kullanýlan aygýt
+SUBARDAÐI: Yemek tariflerinde kullanýlan, beþ adedi bir litreye karþýlýk gelen mutfak gereci
+SUBASKINI: “Taþkýn, seylap, feyezan” sözlerinin eþ anlamlýsý olan söz dizisi
+SUÇORTAÐI: Cürüm yoldaþý
+SUÇUNSURU: Yasalara aykýrý davranýþ ögesi
+SUÝSTÝMAL: Görevi, yetkiyi veya güveni kötüye kullanma
+SULUGÖZLÜ: Olur olmaz þeylere hislenip aðlayan kiþi
+SULUYEMEK: Çoðunlukla tencerede piþirilen, ekmek banmaya uygun yiyeceklerin genel adý
+SULUYEMEK: Genel olarak ekmek banmaya müsait yiyecekler için kullanýlan bir tabir
+SÜNDÜRMEK: Çekerek gerdirerek biçimini bozmak, deforme etmek
+SÜNNETLÝK: Erkekliðe ilk adým kostümü
+SÜPERMÝNÝ: En kýsa etek boyu
+SÜREÖLÇER: “Kronometre”nin Türkçe kökenli karþýlýðý
+SÜTÇOCUÐU: Pastörize delikanlý
+SÜTDANASI: Yeni doðmuþ veya yemle beslenecek kadar büyümemiþ olan sýðýr yavrusu
+SÜTKARDEÞ: Bebeklik dönemindeki en önemli kaynaðý ortak kullanan kiþilere verilen ad
+SÜTÞEKERÝ: Laktozun Türkçe karþýlýðý
+ÞAHDAMARI: Kaný baþa taþýyan “karotis arteri”nin diðer adý
+ÞAKAYOLLU: Espri süsü verilmiþ
+ÞAMPÝYONA: Turnuva veya lig usulü yapýlan yarýþma
+ÞANSOYUNU: Ehlileþtirilmiþ kumar
+ÞAPLATMAK: Yankýlanýmlý tokat atmak
+ÞARKÜTERÝ: Ýþlenmiþ et ürünleriyle türlü mezeler ve kahvaltýlýklar satan dükkân
+ÞENÞAKRAK: Neþesini etrafa saçarak, hayat dolu anlamýndaki söz dizisi
+ÞEREFGOLÜ: Futbolda, maçý farklý skorla kaybeden takýmýn kaydettiði tek sayý, sportif züðürt tesellisi
+ÞÝFABULMA: Ýyileþme, onma anlamýnda bir söz dizisi
+ÞÝFAOLSUN: “Saðlýk ve afiyet versin” anlamýnda bir iyi dilek sözü
+ÞÝKÂYETÇÝ: Yakýnan, maðduriyetinin telafi edilmesini talep eden, müþteki
+ÞOMAÐIZLI: Gözleriyle deðil sözleriyle nazar deðdiren kiþi
+ÞOMAÐIZLI: Kem sözlü
+ÞOVYAPMAK: Gösteriþe kaçan hareketlerde bulunmak
+ÞUBEAÇMAK: Bir kurum veya kuruluþ için merkezin dýþýnda alt mevkide bir iþ yeri oluþturmak
+TABAKHANE: Hayvan postlarýnýn iþlendiði yer, sepi yeri
+TABÝOLMAK: Birinin kontrolü altýna girmek, bir þeye veya bir kimseye baðlanmak
+TAKOMETRE: Motorlu araçlarda hýz ölçüm aygýtý
+TALÝHKUÞU: Ýyilik ve þans daðýttýðýna inanýlan hayali yaratýk
+TALÝMHANE: Eðitim alaný anlamýna gelen eski bir söz
+TAMÝRHANE: Onarým evi
+TAMSIRASI: “En uygun zamaný” anlamýnda bir söz dizisi
+TASKEBABI: Patates, soðan ve kuþbaþý etle hazýrlanan bir tür yemek
+TAÞKINLIK: Çevreyi rahatsýz edecek ölçüdeki coþkulu ve düzeysiz hareketler
+TAZEBÝTTÝ: Esnaf jargonunda “çabucak tükendi, beklemeden satýldý” anlamýnda kullanýlan bir söz
+TAZELEMEK: Yenisiyle deðiþtirmek
+TEFERRUAT: Detay, ayrýntý anlamýnda Arapça kökenli bir söz
+TEKERLEME: Diksiyon ve dil çalýþmalarýnda da kullanýlan birbiriyle uyumlu hazýr söz kalýbý
+TEKERLEME: Dil dolandýran söz kalýbý
+TEKNETURU: Baþladýðý yerde biten, nispeten kýsa mesafeli deniz seyahati
+TEKNÝSYEN: Teoriyi öðrenip, pratiði meslek edinen kimse
+TEKNOLOJÝ: Medeni esaret
+TELEFERÝK: Ulaþýmý güç yükseklikler arasýnda kurulan bir düzenekle yol alan taþýt
+TELESÝYEJ: Oturaklý teleferik
+TELETEKST: Doksanlý yýllarda tanýþtýðýmýz, televizyonlarda interaktif iþlemler yapmaya olanak saðlayan teknoloji
+TERELELLÝ: Sokak jargonunda aklýný oynatmýþ, gel git akýllý anlamlarýnda kullanýlan söz
+TERLETMEK: Mecazen zorlamak, yormak, sýkýntýya düþürmek anlamýnda kullanýlan bir söz
+TERSLEMEK: Gönül kýrýcý sert söz söylemek, azarlayarak cevap vermek
+TESTARACI: Otomobil bayilerinde müstakbel müþterilerin deneme sürüþü için kullandýðý araba
+TEZAHÜRAT: Destek veya beðeni gösterisi
+TIKSIRMAK: Aðýz kapalýyken soluðu kýsa ve þiddetli þekilde boþaltmak
+TOKALAÞMA: El sýkýþma
+TOKALAÞMA: Tanýþmalar ve anlaþmalar sýrasýnda yapýlan bir ritüel
+TOMBALACI: Ayaklý kumarhane
+TOMBALACI: Nesli tükenmekte olan seyyar krupiyelere verilen ad
+TOMBALACI: Nesli tükenmiþ ayaklý kumarhane
+TONBALIÐI: Bekar mutfaklarýnýn en popüler deniz ürünü
+TONBALIÐI: “Orkinos”un diðer adý
+TOPAÇGÝBÝ: Genellikle þiþman ve saðlýklý çocuklar için kullanýlan yakýþtýrma yollu bir söz dizisi
+TOPLANMAK: Bir yerden ayrýlmadan önce beraberinde götüreceði eþyalarý hazýrlamak
+TOPLATMAK: Piyasaya sürülmüþ bir ürünü, herhangi bir nedenle satýþ noktalarýndan geri çekmek
+TOPLUMSAL: Ýçtimai ve sosyal sözlerinin Türkçe kökenli karþýlýðý
+TOPUATMAK: Argoda iflas etmek
+TORNAVÝDA: Vidanýn ruh ikizi
+TORNÝSTAN: Argoda “geri adým atma, lafý çevirme” anlamlarýnda kullanýlan gemicilik terimi
+TOTALÝTER: Erk tekelciliðine dayalý baskýcý devlet düzenini niteleyen Batý kökenli söz
+TOTALÝTER: Mussolini'nin “Devlet içindeki herkes, devlet dýþýndaki hiçbir kimse, devlete karþý olan hiçbir kimse.” sözüyle tanýmladýðý yönetim biçimi
+TOZBULUTU: Rüzgârýn havaya kaldýrdýðý yoðun toprak zerresi
+TRAMBOLÝN: Yaylý zýplatgaç
+TRAVERTEN: “Pamuk taþý” da denen, kaynak sularýnýn biriktirdiði tortu
+TRAVERTEN: Pamukkale ile özdeþleþmiþ olan kalkerli veya silisli tortu
+TRÝPORTÖR: Üçteker de denilen ulaþým ve yük taþýtý
+TROLEYBÜS: 1984 yýlýna kadar ülkemizde de kullanýlan elektrikli otobüs
+TUÞTAKIMI: “Keypad” sözünün Türkçe karþýlýðý
+TUTUCULUK: Toplumsal düzende eskiye baðlýlýk
+TÜMEVARIM: Tekten bütüne, özelden genele ulaþma yöntemi, endüksiyon
+TÜMLETMEK: Ufak birimlerdeki paralarý, ederi ölçüsündeki banknotla deðiþtirmek
+TÜTTÜRMEK: Sigara, nargile gibi bir tütün ürününü yakýp dumanýný savurmak
+TÜYDÝKMEK: “Büsbütün kötü duruma sokmak” anlamýndaki deyim
+TÜYDÝKMEK: Hâlihazýrda kötü olan bir durumu beter hâle getirmek anlamýnda bir deyim
+UÇAKSAVAR: Hava hedeflerine karþý kullanýlan silahlara verilen genel ad
+UÇANDAÝRE: Evrenler arasý hava aracý
+UÇANDAÝRE: Galaksiler arasý mesafeleri katettiði varsayýlan mistik hava aracý
+UÇANDAÝRE: Kozmik turist taþýtý
+UÇANDAÝRE: Tanýmlanamayan kozmik seyahat taþýtý
+UÇUKKAÇIK: Rastgele ve patavatsýz bir biçimde hareket eden, deli dolu
+ULAÞIMAÐI: Kara, hava ve demir yollarýnýn oluþturduðu þebeke
+UMUTIÞIÐI: Ýsteðin ve dileðin gerçekleþeceði yönünde kiþiye güven veren belirti
+USTAKALEM: Rüþtünü ispatlamýþ yazarlar için kullanýlan bir tabir
+UYDURMACA: Düzmece, sahte, yalan yanlýþ bilgi ya da haber
+UYGUNADIM: Grup hâlinde ayný ayak atýþlarýyla yapýlan yürüyüþ
+UYUZETMEK: Teklifsiz konuþmada, “sinirlendirmek”
+UZATMALAR: 90 dakikanýn ötesine taþýnan futbol maçlarýnda, eklenen dakikalar ya da devreler için kullanýlan söz
+ÜÇBOYUTLU: Eni, boyu ve derinliði olan
+ÜÇLÜKATIÞ: Basketboldaki uzun menzilli þut
+ÜNSÜZHARF: Alfabemizin ses yolunda bir engele çarparak çýkan 21 ögesinin her biri için kullanýlan tabir
+ÜRETÝMEVÝ: Fabrika sözünün Türkçe kökenli karþýlýðý
+ÜSTELEMEK: Bir düþünce veya isteðin üzerinde durmak, ýsrar etmek
+ÜSTÜNKÖRÜ: “Ýnceliklerine inmeden, özen göstermeden, geliþigüzel, baþtan savma” anlamlarýndaki birleþik kelime
+ÜSTÜNZEKÂ: Deha potansiyeli taþýyan algý, yargý ve akýl yürütme yeteneði
+ÜTÜMASASI: Giysilerin kýrýþýklarýný giderme iþleminde kullanýlan katlanabilir platform
+VAHÞÝBATI: ABD’nin 19. yüzyýlda Kýzýlderililerden satýn aldýðý veya ilhak ettiði topraða verdiði ad
+VANKEDÝSÝ: Heterokromik pisi pisi
+VAYHÂLÝNE: Sonuna eklendiði söze, “baþýna kötü þeyler gelir, acýnacak duruma düþer” anlamý katan tabir
+VETERÝNER: “Besi ve/veya yük hayvaný” anlamýndaki bir sözden türemiþ olup bir hekimlik dalý için kullanýlan söz
+VÝTESKOLU: Þanzýman manivelasý
+YABANGÜLÜ: Bir çiçek türünün hýrçýn ve alýmlý kadýnlara yönelik kullanýlan adý
+YAÐÇEKMEK: Birini hak etmediði ölçüde övmek
+YAÐDIRMAK: Mecazi anlamda çok ve bol miktarda, aralýksýz vermek, saðlamak
+YAÐLIKAPI: Mecazi anlamda büyük fayda ve çýkar saðlanan yer
+YAKAKARTI: Kýyafet üzerine iliþtirilen kimlik belirteci
+YAKIÞIKLI: Güzel ve gösteriþli erkekler için kullanýlan ama asýl anlamý “kadýnýn yanýna uygun düþen, iyi giden” olan söz
+YAKIÞIKLI: “Uygun, mütenasip, yaraþan” anlamlarýndaki, erkeklere yönelik bir iltifat sözü
+YAKLAÞMAK: Aradaki uzaklýðý azaltacak þekilde ilerlemek
+YAMYAMLIK: Antropologlarýn içe dönük ve dýþa dönük olarak ikiye ayýrdýðý tür içi beslenme alýþkanlýðý
+YAMYAMLIK: Kendi türünden canlýlarý yeme iþi veya alýþkanlýðý
+YANÇÝZMEK: Teklifsiz konuþmada caymak, vazgeçmek, sözünden dönmek
+YANSITMAK: Iþýk, ses veya görüntüyü geri göndermek
+YARADILIÞ: Bir kimsede doðuþtan bulunan vücut ve ruh özelliklerinin tümü
+YARADILIÞ: “Hilkat garibesi” tabirindeki “hilkat” sözcüðünün günümüz Türkçesindeki karþýlýðý
+YARDIRMAK: Argoda hýzýný, ivmesini arttýrmak
+YARDIRMAK: Argoda “hýzlanmak, þiddeti artýrmak, büyük efor sarf etmek” anlamlarýnda kullanýlan bir söz
+YARIFÝNAL: Bir turnuvada son iki þampiyon adayýný belirleyen karþýlaþmalar
+YAÞAMKOÇU: Kiþilerin hayat niteliðini geliþtirme amaçlý danýþmanlýk ve yönlendirme hizmeti veren kimse
+YAÞAMKOÇU: Profesyonel akýl hocasý
+YAÞDÖNÜMÜ: “Menopoz” ve “andropoz” için kullanýlan ortak tabir
+YATAKHANE: Kalabalýkla birlikte uyunulan yer
+YATKULÜBÜ: Özel gezi veya spor teknesi sahiplerinin üye olarak toplandýklarý yer
+YAVRUKURT: Standardizasyon ve disiplin odaklý genç kampçý
+YAYILMACI: Emperyalist sözünün Türkçe karþýlýðý
+YAZARKASA: Resmi adý “ödeme kaydedici cihaz” olan aygýt
+YEDÝAYLIK: Sabýrsýz ve aceleci insanlar için mecazi olarak kullanýlan bir tabir
+YEDÝVEREN: Yýlda birkaç kez çiçek açan güller için kullanýlan bir birleþik kelime
+YEÐTUTMAK: Bir þeyi öbürüne göre daha iyi, üstün veya önemli saymak, tercih etmek
+YENÝDÜNYA: Amerika kýtasý ve Malta eriði için ortak kullanýlan bir tabir
+YENÝMEZUN: Taze diploma sahibi
+YENÝYETME: Beden geliþimini yakýn zamanda tamamlamýþ ya da tamamlamakta olan genç, ergen
+YERÇEKÝMÝ: Dünya’yla olan en temel baðýmýz
+YERKABUÐU: Dünya’nýn dýþýný kaplayan, üzerinde karalar ve denizlerin bulunduðu bölüm
+YERLÝMALI: 1946’dan beri aralýk aylarýnda kutlanýlan hafta
+YERYATAÐI: Altýnda herhangi bir platform konulmadan serilen þilte veya döþek
+YEÞÝLSAHA: Özellikle futbol karþýlaþmalarý için kullanýlan, yüzeyi çimle kaplý alanlara yönelik bir tabir
+YETÝMHANE: Ebeveynlerini kaybetmiþ, vasisi olmayan çocuklarýn barýndýrýldýðý, bakýldýðý yer
+YIRTINMAK: Parçalanýrcasýna baðýrmak
+YOÐUNDÝSK: Çapý büyük, eni ince, teker biçimindeki sayýsal optik veri saklama ortamý
+YOKLUKEKÝ: Bir kelimenin sonuna gelerek, o nesne veya özelliðe sahip olmama anlamý katan söz parçasý, “-sýz, -siz”
+YOKPAHASI: Ederinden çok aþaðýda olan fiyat, bedava denecek kadar düþük bedel
+YOLAYRIMI: Bir ulaþým platformunun iki veya daha fazlaya bölündüðü nokta
+YOLSUZLUK: Çýkar amacýyla bir görevi, bir yetkiyi kötüye kullanma durumu
+YOLVERMEK: Ýþten çýkarmak, kovmak anlamýnda bir deyim
+YOLYORDAM: “Adap erkân” tabirinin Türkçe kökenli karþýlýðý
+YUHALAMAK: Beðenilmeyen, istenmeyen birini veya bir durumu haykýrýþa dönüþmüþ bir nida ile protesto etmek
+YUMUÞAKÇA: Bedeni katý olmayan, omurgasýz hayvan
+YUTKUNMAK: Asýl amacýnýn yaný sýra, isteyip, imrenip edilemeyenler karþýsýnda yapýlan bir gýrtlak hareketi
+YÜZNUMARA: Konaklama tesislerinde “00” simgesiyle iþaretlenen odalarý belirtmek için kullanýlýp zamanla anlamý genelleþen söz
+YÜZNUMARA: Rahatlama odasý
+YÜZNUMARA: “00” simgesi nedeniyle tuvaletler için kullanýlan kalýplaþmýþ bir tabir
+YÜZÖLÇÜMÜ: Bir satýhýn kapladýðý yer miktarý, alan
+YÜZTUTMAK: Olmak üzere bulunmak
+ZAMANLAMA: Bir konuda en iyi sonucu almak için en iyi, en uygun süreyi belirleme iþi
+ZAMAZÝNGO: Adý hatýrlanmayan þeyler için kullanýlan joker sözcük
+ZARTUTMAK: Tavla, barbut gibi oyunlarda, rakibi el becerisiyle yenmeye çalýþmak
+ZEDELEMEK: Zarar vermek, hafifçe yaralamak
+ZEHRETMEK: Keyif alýnacak bir þeyi olumsuzluk çýkararak tatsýz hâle getirmek
+ZEKÂTESTÝ: Ýdrak yollarý imtihaný
+ZEKÂTESTÝ: Kiþinin akýl cevherini ölçen sýnama türü
+ZENGÝNKIZ: Ancak sevdiði ile evlendiðinde iyileþebileceði garip hastalýklara tutulan film karakteri
+ZIMBAGÝBÝ: Yakýþtýrma yollu olarak “tam formunda” anlamýnda kullanýlan bir söz dizisi
+ZÜCCACÝYE: Cam, porselen gibi maddelerden yapýlmýþ eþya

@@ -1,0 +1,968 @@
+966
+
+ABAKÜS: Pedagojik hesap makinesi
+ABAKÜS: Sayý boncuðunun kökeni Eski Yunancaya kadar uzanan adý
+ABDEST: Bir ibadet öncesi yapýlan arýnma ritüelinin “el suyu” anlamýna gelen Farsça kökenli adý
+ACAYÝP: Olaðana aykýrý, garip, tuhaf ve yadýrganan anlamýndaki söz
+ACENTE: Sözleþmeyle bir iþletmenin, kuruluþun iþlerini belirli bir bölgede yürüten, daha küçük iþletme
+ACIKLI: Hüzün ve keder doðuran, üzücü, koygun
+ACIKLI: Üzücü, insanýn yüreðine dokunan
+ADALET: Hakkýn gözetilmesi ve yerine getirilmesi
+ADONÝS: Karnýn iki yanýndan kasýklara doðru inen kaslara adýný veren mitolojik karakter
+AFAKAN: Sýkýntý anýnda yaþanan bunalým, çarpýntý, yürek oynamasý
+AFERÝN: Çocuklarýn daha çok duyduðu bir takdir sözü
+AFERÝN: En sevilen takdir sözü
+AFERÝN: Genellikle yaþ, makam gibi nitelikler yönünden üst düzeyde olan kiþinin diðerine yönelttiði takdir sözü
+AFERÝN: Övgü ve takdir ünlemi
+AFERÝN: Ucuz ihsan, iyilik
+AFRÝKA: Kara kýta
+AGUCUK: Bebek sevme ünlemi
+AÐABEY: Eskiden “aka” veya “ede” de denen bir akraba
+AÝKÝDO: Bir savunma sanatýnýn “yaþam gücü ile bütünleþme yolu” anlamýndaki adý
+AJANDA: Gündelik akýl defteri
+AJANDA: Ýþ hayatýna yönelik günlük defteri
+AJANDA: Organizasyon defteri
+AKBABA: Adý çýkar amaçlý sömürüyle özdeþleþmiþ olan bir kuþ
+AKITMA: Alaturka krep
+ALAMET: Belirti, iz, iþaret, niþan anlamlarýnda Arapça kökenli bir söz
+ALENEN: “Açýkça” anlamýnda bir zarf
+ALERJÝ: Herhangi bir nesneye hastalýk derecesinde gösterilen aþýrý tepki ve hassasiyet
+ALERJÝ: Vücudun, bazý maddelerden veya hava þartlarýndan etkilenmesi ve aþýrý reaksiyon göstermesi
+ALINDI: “Makbuz” sözünün Türkçe kökenli karþýlýðý
+ALYANS: Dünyaevinin baðdaþtýrýcý halkasý
+ALYANS: Medeni hâl takýsý
+AMFÝBÝ: Biyolojide, hem sulu hem kuru ortamlarda yaþayabilen canlýlara yönelik bir isim
+AMNEZÝ: Hafýza kaybý veya bellek yitimi anlamýndaki Fransýzca kökenli söz
+AMORTÝ: Masrafý çýkartan talih oyunu ikramiyesi
+AMORTÝ: Piyangolardaki züðürt tesellisi
+ANASON: Rakýnýn su katýldýðýnda beyazlamasýna sebep olan çeþni
+ANÇÜEZ: Alafranga hamsi ezmesi
+ANÇÜEZ: Hamsi ezmesine veya filetosuna verilen Fransýzca kökenli ad
+ANGORA: Ankara keçisinin kýlýndan veya tavþanýnýn tüyünden elde edilen iplikle dokunmuþ giysi
+ANGORA: Tavþaný, kedisi, keçisi de olan kumaþ türü
+ANKARA: Türkiye’nin payitahtý
+ANOFEL: Tehlikeli bir sivrisinek cinsi
+ANORAK: Baþlýklý, su geçirmez üst giysisi
+APARAT: Herhangi bir aracýn çeþitli amaçlarla kullanýlmasýný saðlayan ek parça
+ARITMA: Katýþýksýz duruma getirme, yabancý maddeleri ayýrma iþlemi
+ARTÝST: Güzel sanatlardan birini meslek edinen kimse
+ASALAK: Baþkalarýnýn sýrtýndan geçinen
+ASFALT: Ana maddesi katran olan ve ulaþým platformu yapýmýnda kullanýlan karýþým
+ATILIM: Mecazi anlamda herhangi bir konudaki ilerleme veya bu ilerleme için gösterilen çaba
+ATIÞMA: Saz þairi karþýlaþmasý
+AVANAK: Asýl anlamý “sýpa” olup günümüzde “kolaylýkla kandýrýlabilen kimse” anlamýnda kullanýlan söz
+AVANTA: Argoda emeksiz kazanç
+AVANTA: Emek vermeden, bedavadan kazanýlan þey
+AVATAR: Ýnternet ortamýnda kullanýcýyý temsil eden sanal karakterlere verilen genel ad
+AVATAR: Sanal gerçeklikte kullanýcýyý temsil eden karakter
+AVUKAT: Yargý yolu kýlavuzu
+AYDEDE: Dünya’nýn uydusu için kullanýlan samimi bir unvan
+AZRAÝL: Can borcu tahsildarý
+BADÝRE: Varta sözüyle yakýn anlamlý olan Arapça kökenli bir söz
+BAÐDAÞ: Lotus pozisyonunun Anadolu’daki karþýlýðý
+BAÐLAÇ: Cümle içinde düðümleyici olarak kullanýlan kelime türü
+BAÐLAÇ: Eþ görevli sözcükleri veya cümleleri bir araya getiren sözcük, cümle düðümleyicisi
+BAÐLAÇ: Rabýt ya da rabýt edatý da denen uzun cümle mimarý
+BAÐLAÇ: Sözcükleri veya tümceleri birbirine düðümleyen sözcük
+BAÐNAZ: “Mutaassýp” ve “fanatik” sözleriyle eþ anlamlý olmasýna raðmen gündelik konuþmada daha sert bir anlama bürünen söz
+BAHANE: Sudan sebep, mazeret
+BAHANE: Uydurma sebep, kurgulanmýþ mazeret
+BAHÞÝÞ: Bahþedilen, ücretten ayrý olarak fazladan verilen para
+BAHÞÝÞ: Kelime anlamý “bahþedilen, karþýlýksýz verilen” olan, hizmet bedeli haricinde ödenen para
+BAKAYA: Arazi olmaya son yoklamanýn ardýndan karar vermiþ olan müstakbel asker
+BAKSEN: Þaþma ünlemine aþaðýlayýcý ya da alaycý bir ifade katan söz dizisi
+BALÝNA: Çýkardýðý sesler 850 km uzaktan duyulabilen bir deniz memelisi
+BALÝNA: Dilinin aðýrlýðý yetiþkin bir filin aðýrlýðý kadar olan hayvan
+BALKON: Bir evin en havadar bölümü
+BALKON: Gösteri salonlarýnda seyirciler için ayrýlmýþ asma katlara verilen ad
+BALKON: Kamuya açýk yaþam alaný
+BALKON: Tiyatro ve sinemada asma kat
+BALÖZÜ: “Nektar”ýn Türkçe kökenli karþýlýðý
+BANANE: “Umurumda deðil, beni ilgilendirmez” anlamlarýnda kullanýlan kalýplaþmýþ bir söz dizisi
+BANKET: Kara yolu kenarý
+BARAKA: Barýnma amaçlý inþa edilen basit yapý
+BARBUN: Pembe kýrmýzý renklerde bir kemikli balýk türünün kýsa adý
+BARDAK: Yemek tariflerinde 200-250 ml’lik ölçüler için kullanýlan kap
+BARKOD: Çizgi im de denen, elektronik aygýtlarýn okuyabileceði biçimde düzenlenmiþ etiket
+BARMEN: Bazý içkili mekânlardaki tezgâh arkasý elemaný
+BASINÇ: Bir yüzey üzerine etkide bulunan gücün yüz ölçümü birimine düþen miktarý, tazyik
+BASKIN: Kýsa süreli, beklenmedik saldýrý
+BASKÜL: Elit kantar
+BASTON: Ýhtiyar asasý
+BAÞKAN: Devlet liderlerinden okuldaki sýnýf temsilcilerine kadar birçok kiþinin kullandýðý bir unvan
+BATMAN: Ayný zamanda bir ilimizin adýyla eþ sesli olan, 7,692 kilograma denk eski bir aðýrlýk ölçüsü birimi
+BAYRAK: Bir ülkeyi veya kurumu temsil eden renkli kumaþ
+BAZUKA: Bir tür roketatar
+BECERÝ: Elinden iþ gelme durumu
+BEDEVÝ: Çöl gemisi kaptaný
+BEDEVÝ: Çöl göçebesi
+BELALI: Yolsuz kadýnýn zorba dostu
+BELLEK: Yaþananlarý, öðrenilen konularý bilinçli olarak zihinde saklama gücü
+BENDÝR: Klasik Türk müziði, Türk halk müziði ve tasavvuf musikisinde kullanýlan baþlýca vurmalý çalgý
+BERDEL: Takas usulüyle hayat arkadaþý seçmeye dayanan töre
+BERJER: Dedikodu köþelerinin sýrtý pek koltuðu
+BERJER: Makam koltuðuna özenen bir ev mobilyasý
+BERRAK: Duru, temiz, aydýnlýk, açýk anlamlarýnda bir söz
+BESÝLÝ: Ýnsanüstü þiþman
+BEYGÝR: Binek hayvaný olarak kullanýlmayan at
+BINGIL: Yumuþaklýk veya þiþmanlýk sebebiyle oynar, titrer duruma gelmiþ anlamýnda bir söz
+BIZDIK: Þaka yollu olarak “küçük çocuk, ufaklýk” anlamýnda kullanýlan bir söz
+BÝGUDÝ: Saç bobini
+BÝGUDÝ: “Sarmaç” da denen þekil verici saç gereci
+BÝLLUR: Kesme cam, kristal
+BÝLMÝÞ: Kinayeyle “ukala” anlamýnda kullanýlan bir söz
+BÝNYIL: “Milenyum” sözcüðünün karþýlýðý olan söz dizisi
+BÝRÝSÝ: Kim olduðu bilinmeyen veya önemsenmeyen kiþi, herhangi bir kimse
+BÝRLÝK: Ana duygu ve düþünceler çevresinde toplanma durumu, bölünmezliði içeren yalýn bütün
+BÝSTRO: Kafe-lokanta karýþýmý, içki de içilebilen mekânlara verilen Fransýzca kökenli söz
+BÝTTER: Vakur çikolata
+BOÐMAK: Gereðinden fazla gaz vererek motoru çalýþamaz duruma getirmek
+BONSAÝ: Uzak Doðu’ya özgü bitkisel sanat eseri
+BORDRO: Bir hesabýn, maaþýn ayrýntýlarýný gösteren çizelge
+BORNOZ: Emici cübbe
+BOÞNAK: Bosna halkýndan veya bu halkýn soyundan olan kimse
+BOTOKS: Mimik sabitleyicisi
+BOYBOS: Vücudun yapýsý bakýmýndan biçimi, endam
+BOZAYI: Yakýn bir geçmiþte sokak performanslarý yaptýrýlan, ülkemiz faunasýnýn en iri hepçil hayvaný
+BOZGUN: Birliði daðýtan aðýr yenilgi
+BOZGUN: Genellikle yaþanýlan yenilgi sonucunda birliðin daðýlmasý
+BOZKIR: Pampa, step gibi isimleri de olan doðal alan
+BOZKIR: Sýcak ve ýlýman iklimlerdeki aðaçsýz doðal alan
+BOZMAK: Altýn ve benzeri deðerli malzemeleri paraya çevirmek veya büyük parayý küçük birimlere ayýrmak
+BOZMAK: Birini beklemediði bir davranýþta bulunarak veya sözünü yalana çýkararak küçük düþürmek
+BRANDA: Muþamba benzeri su geçirmez bez
+BRENDÝ: Þarabýn damýtýlmasýyla elde edilen bir içki
+BUFALO: Bizon ve sýðýr melezi olan bir hayvan
+BUÐULU: Mecazen süzgün, dalgýn bakýþlý gözleri; dokunaklý, pes sesleri niteleyen bir söz
+BUHRAN: Bunalým, kriz anlamlarýnda Arapça kökenli bir söz
+BULGUR: Buðdaydan yapýlan geleneksel Anadolu yiyeceði
+BULVAR: Afili cadde
+BUNMAK: Halk aðzýnda beðenmemek, azýmsamak, küçümsemek anlamlarýnda kullanýlan bir söz
+BURGAÇ: Bir engelle karþýlaþan su veya hava akýntýsýnýn dönerek oluþturduðu çukur
+BUZAÐI: Süt danasý
+BUZUKÝ: Rembetiko ve çaðdaþ Yunan müziðinin karakteristik çalgýsý
+BÜLBÜL: Divan edebiyatýnýn kanatlý maþuðu
+BÜLBÜL: Seher kuþu
+CANGIL: Yaðmur ormaný
+CARÝYE: Esir alýnýp elin kýzýyken evin kýzý hâline getirilmiþ kiþi
+CAZGIR: Er meydaný anonsörü
+CENNET: Ýnsanoðlunun kovulduðu hâlde tekrar gitmeye uðraþtýðý yer
+CEPKEN: Yakasýz cekete benzer otantik üst giysisi
+CEREME: Baþkasý tarafýndan yapýlan veya kaza sonucu ortaya çýkan zararý ödeme
+CERMEN: Bugünkü Almanya, Bohemya ve Polonya’nýn batý bölümündeki bölgede 9. yüzyýla kadar oturan halk
+CEVÞEN: Kelime anlamý “göðsü örten zýrh” olan, kaza ve beladan koruduðuna inanýlan, kolye biçiminde boyna da takýlan dua metni
+CIMBIZ: Minyatür maþa
+CINGIL: Reklam müzikleri veya radyo programlarýndaki giriþ çýkýþ parçalarý için kullanýlan Ýngilizce kökenli söz
+CIRMIK: Halk aðzýnda “týrnak izi”
+CIVATA: Altýgen baþlý montaj aparatý
+CÝNSEL: Eþeysel sözünün daha yaygýn kullanýlan eþ anlamlýsý
+CÖMERT: “Alicenap” sözcüðünün yaygýn kullanýlan eþ anlamlýsý
+CÜMBÜÞ: Adýný mucidinin soyadýndan alan, ut ve banjoya benzer, metal gövdeli müzik aleti
+ÇAKMAK: Asli görevinin yaný sýra þiþe açacaðý olarak da kullanýlan bir alet
+ÇALMAK: Yoðurt yapmak için sütü mayalamak, maya katmak
+ÇAPSIZ: Mecazi anlamda yetersiz, dar görüþlü anlamlarýnda kullanýlan bir söz
+ÇARDAK: Bir tür gölgeliðin, Farsça “dört kemer” anlamýna da gelen adý
+ÇATLAK: Hýzlý kilo alýp verme gibi nedenlerle deri üzerinde oluþan çizgiler
+ÇAYLAK: Bir yýrtýcý kuþun “deneyimsiz, acemi” anlamlarýnda kullanýlan adý
+ÇAYLAK: Küçük kuþlar ve fare gibi zararlý hayvanlarý avlayan, adý acemilikle özdeþleþmiþ, tavuk büyüklüðünde bir kuþ
+ÇEKMEK: Özellikle kahve için “öðütmek” anlamýnda kullanýlan bir söz
+ÇEKMEK: Televizyon, radyo, telefon gibi aygýtlar için, vericiden gelen dalgalarý algýlayarak baðlantý kurmak
+ÇEKYAT: Dönek kanepe
+ÇELENK: Çember çiçek aranjmaný
+ÇENTÝK: Bir þeyin kenarýna sivri bir aletle açýlan kesik
+ÇENTÝK: Bir þeyin kenarýndan kesilerek veya kýrýlarak açýlan küçük kertik, týrtýk
+ÇEYREK: Ortalama 1,75 gram aðýrlýðýndaki cumhuriyet altýnýna verilen kýsa ad
+ÇEYREK: Yarýmýn buçuðu
+ÇIÐLIK: Çaðlayan nida, feryat figan, vaveyla
+ÇIÐLIK: Sözün yetersiz kaldýðý anlarda, çoðunlukla istemsizce çýkarýlan ince, keskin ve yüksek ses
+ÇIKMAK: Duygusal bakýmdan yakýnlýk kurup birlikte sosyalleþmek
+ÇINGAR: Kavga, gürültü anlamýnda bir sözcük
+ÇITÇIT: Adýný açýlýp kapanýrken çýkardýðý sesten alan bir tür kopça
+ÇÝRKEF: Sataþýlmamasý gereken, bulaþýk ve kavgacý kiþilere yönelik bir tabir
+DALMAK: Uykuya girmek anlamýndaki söz
+DANDÝK: Argoda “deðersiz, bayaðý, basit” anlamýnda kullanýlan bir söz
+DANTEL: Estetik að desenli örgü
+DAVRAZ: Isparta’nýn 26 km güneydoðusunda yer alan kayak merkezinin adý
+DEFÝLE: Tekstil sektörünün geçit töreni
+DEÐMEZ: “Harcanan çabayý karþýlamaz” anlamýnda bir söz
+DEHLÝZ: Üstü kapalý, dar ve uzun geçit
+DEHÞET: Derin korku
+DEKONT: Banka iþleminin hesap belgesi
+DEMODE: Toplumsal beðeniyi ve yeni olma vasfýný kaybetmiþ olan
+DENDEN: Üþengeçlerin en sevdiði noktalama iþareti
+DENSÝZ: Yakýþýk almayan, uygun görülmeyen tavýr ve davranýþlarda bulunan kiþi
+DEPREM: Bazý hayvanlar tarafýndan gerçekleþmeden hissedildiðine inanýlan doðal afet türü
+DERGÂH: Tarikat etkinliðinin yürütüldüðü yapý
+DESPOT: Ýktidarý altýnda bulunanlara söz hakký ve davranýþ özgürlüðü tanýmayan kimse
+DESTAN: Genellikle kahramanlýk hikayelerini konu alan yazým türü
+DESTAN: Olaðanüstü olaylarý konu alan þiir, epope
+DEÞMEK: Oyarak delik açmak
+DETOKS: Bedensel toksin temizliði
+DEVRAN: Devirler, çaðlar anlamýnda bir söz
+DEVRÝK: Ögeleri bir dilin yaygýn kullaným kurallarýna göre sýralanmamýþ cümle
+DEVRÝK: Yüklemi baþýna buyruk olan cümlelere yönelik bir tabir
+DIÞSES: Sinema ve televizyonda hikâyeye gaipten katýlan anlatýcý
+DÝKKAT: Düþünceyi belli bir þey üstünde yoðunlaþtýrabilme gücü, bilinç odaðý
+DÝKKAT: Ýçinde ünlem iþareti olan kýrmýzý þeritli üçgen trafik levhasýnýn anlamý
+DÝNAMO: Hareket enerjisini elektrik enerjisine çeviren bir araç
+DÝNGÝN: Sakin, hareketsiz, kýpýrdamadan duran
+DÝNGÝN: Sakinleþmiþ, durulmuþ olan
+DÝNMEK: Öfke, heyecan gibi duygular; kar, yaðmur gibi doða olaylarý için “sona ermek, bitmek, durmak” anlamýnda kullanýlan söz
+DÝREKT: Boksta düz olarak atýlan yumruk
+DÝRHEM: 3,207 grama denk olan eski bir aðýrlýk ölçüsü birimi
+DÝRSEK: Adýný bir eklemden alan, borularýn doðrultusunu deðiþtirmekte kullanýlan baðlantý parçasý
+DÝVANE: Herhangi bir þey uðruna akli dengesini yitirmiþ olan
+DOÇENT: Müstakbel profesör
+DOLGUN: “Þiþmana yakýn, balýketinde” anlamýnda bir söz
+DOMÝNO: 28 taþla oynanan bir masa oyunu
+DOPÝNG: Ahlaksýz sporcunun namert enerji kaynaðý
+DOPÝNG: Kimyasal þike
+DUBLÖR: Sinema sektöründe en yüksek riski alan çalýþan
+DUYURU: Ýlan sözünün Türkçe kökenli karþýlýðý
+DÜELLO: Davetli cinayet
+DÜELLO: Ýki kiþinin tanýklar önünde gerçekleþtirdiði nizami silahlý vuruþma
+DÜKKÂN: Esnafýn perakende satýþ yaptýðý, küçük zanaat sahiplerinin çalýþtýklarý yer
+DÜRMEK: Bir þeyi kývýrarak boru biçimine getirmek
+DÜSTUR: Genel kural anlamýndaki eski bir söz
+DÜZKAS: Mide, damar, baðýrsaklarda bulunan, isteðimiz dýþýnda çalýþan adalelerin ortak adý
+EBRULÝ: Üzerinde deðiþik renkler bulunan
+EÐRETÝ: “Ýyi yerleþmemiþ, yerini bulmamýþ bir þekilde” anlamýndaki söz
+EKECEK: Halk aðzýnda “tohum”
+EKKART: Manyetik plastik ödeme aracýnýn ikizi
+EKSERÝ: “Genellikle” anlamýnda kullanýlan Arapça kökenli kelime
+EKSTRE: Meyve suyu ambalajlarýnda “özüt” anlamýnda kullanýlan ticaret terimi
+ELEMAN: Argoda fazla samimi olunmayan tanýdýklar veya yakýn arkadaþlar için kullanýlan bir söz
+ELEMEK: Elimine etmek
+ELEMEK: En iyileri seçmek için beðenilmeyenleri ayýklamak
+ELENSE: Eþek þakalarýna alet olmuþ bir güreþ taktiði
+ELKIZI: Gelin, kadýn ya da eþ anlamýnda kullanýlan nahoþ ifade
+ELOÐLU: Yabancý anlamýna gelen, aileye evlilik yoluyla giren erkekler için de kullanýlan samimiyetsiz tabir
+ELVEDA: Sonsuz ayrýlýðýn ünlemi
+EMEKLÝ: Eski dilde mütekait de denen, çalýþma hayatýný sonlandýrmýþ kiþi
+EMPATÝ: Türkçe karþýlýðý duygudaþlýk olan ruh bilimi terimi
+ENDÝÞE: Kuþkudan doðan korku
+ENGEBE: Ýniþli çýkýþlý yüzey þekli
+ERÝÞTE: Anadolu’da kýþlýk yiyecek olarak çorbasýndan makarnasýna kadar tüketilen otantik hamur iþi
+EROTÝK: Þehveti körükleyen, cinsel coþku uyandýran, kösnül
+ESASLI: “Kuvvetli, etkili, adamakýllý, enikonu” anlamlarýnda kullanýlan bir söz
+ESÝNTÝ: Belli belirsiz hissedilen ferah rüzgâr
+ESKÝCÝ: Ayaklý bitpazarý
+ESKÝCÝ: Mobil geri dönüþüm aracý
+ESKÝCÝ: Seyyar geri dönüþüm emekçisi
+EÞKIYA: Kentleþme ve modern yaþam tarzýna ayak uyduramamýþ soyguncu çetesi
+EÞKIYA: Pastoral soyguncu
+EVBARK: Aile ve yuvayý tanýmlayan söz dizisi
+EVBARK: Yuvaya dönüþtürülmüþ konut, mülk veya aile, çoluk çocuk anlamýnda kullanýlan bir söz dizisi
+EVVELA: “Her þeyden önce, ilkin” anlamýndaki söz
+FARAZA: “Diyelim ki, varsayalým ki” anlamlarýndaki eski bir söz
+FAÞÝZM: Bir tür antidemokratik radikal milliyetçilik
+FATÝHA: “Baþlangýç” anlamýna gelen Kur’an’ýn ilk suresi
+FATURA: Satýcý firma tarafýndan alýcý adýna tanzim edilen, mal veya hizmetin satýldýðýný gösteren bir belge
+FAVORÝ: Müstakbel kazanan, beklenen galip
+FAYTON: Tek körüklü, dört tekerlekli, genellikle çift atlý binek arabasý
+FERACE: Osmanlý’ya özgü, kadýnlarýn kullandýðý pardösüye benzer bir üst giysisi
+FERMAN: Osmanlý Devleti’nde padiþahýn verdiði, uyulmasý gerekli hükümleri taþýyan yazýlý buyruk
+FERSAH: Yaklaþýk 5 kilometrelik eski bir uzunluk ölçüsü
+FERYAT: Izdýrap dolu çýðlýk
+FIRSAT: Uygun zaman, uygun durum veya þart
+FISFIS: Halk aðzýnda küçük sývý püskürteçlerine verilen ad
+FÝLÝKA: Cankurtaran sandalý
+FÝLTRE: Teknolojik süzgeç
+FÝSKOS: Fýsýltýlý dedikodu
+FÝSTAN: Bir tür tek parçadan oluþan kadýn elbisesi
+FÝYONK: Fiyakalý düðüm
+FÝYORT: Norveç, Ýskoçya ve Kuzey Amerika kýyýlarýnda buzullarýn oluþturduklarý körfez
+FOLLUK: Kümes hayvanlarý için üretim platformu
+FONDÝP: Bir içeceði tek seferde önce güdümleyip sonra yudumlamak
+FONDÝP: Ýçki dikiþ
+FORMÜL: Sayýsal tarif
+FRENGÝ: Sifilis de denen bir hastalýða Batý Avrupa kaynaklý olmasý sebebiyle verilen ad
+FRÝKÝK: Futbolda “serbest vuruþ”, magazin haberciliðinde “göz banyosu” anlamýnda kullanýlan terim
+FRÝKÝK: Mini etekle atýlan serbest vuruþ
+FRÝZBÝ: Ýnsanlar kadar köpeklerin de büyük keyif alarak oynadýðý eðlence diski
+FRÝZBÝ: Yaz aylarýnda özellikle plaj eðlencelerinin vazgeçilmezlerinden olan aerodinamik zamazingo
+FÜHRER: Tarihte yalnýzca Adolf Hitler’in kullandýðý, “lider, önder” anlamýna gelen Almanca unvan
+GABARÝ: Araçlarýn kara yollarýndaki seyirlerini temin amacýyla uzunluk, geniþlik ve yüksekliklerini belirleyen ölçüler
+GAFLET: Dalgýnlýk, dikkatsizlik, boþ bulunma, aymazlýk, ihtiyatsýzlýk, basiretsizlik hâli
+GALETA: Rejimlerin atýþtýrmalýk sihirli deðneði
+GALLER: Britanya’da Birleþik Krallýk’a baðlý dört ülkeden güneybatýda olaný
+GAMSIZ: Kolay kolay üzülmeyen ve kaygý duymayan kiþilere yönelik bir sýfat
+GAZETE: Duruma göre yer sofrasý, cam sileceði, çekirdek külahý hatta içki kýlýfýna dahi dönüþebilen çok fonksiyonlu bir araç
+GAZETE: Selülozik cam silme gereci
+GERDEK: Dünyaevinin gala gecesi
+GERGÝN: Mecazi anlamda huzursuz ve sinirli
+GERZEK: Zekâ düzeyi geliþmemiþ anlamýndaki bir sözün kýsaltýlmýþ hâli
+GIRGIR: Bir tür büyük balýkçý aðýna ve bu aðýn kullanýldýðý teknelere verilen ad
+GIRGIR: Komik, matrak, eðlenceli anlamlarýnda kullanýlan bir söz
+GÝDÝCÝ: Mecazi anlamda ölmek üzere olan
+GÝRGÝN: Medeni cesareti yüksek, kolay iliþki kuran, çekingen olmayan kiþi
+GONDOL: Venedik takasý
+GORALI: Zenginleþtirilmiþ sosisli sandviç
+GÖRÜCÜ: Hýsým akraba olma isteðiyle ziyarete gelen misafir türü
+GÖRÜCÜ: Kýzevini ziyaret eden keþif timi
+GÖTÜRÜ: Fiyatý veya ücreti toptan belirlenen iþ
+GÖZLEM: Müþahede ve rasat sözlerinin Türkçe kökenli karþýlýðý
+GÜÇLÜK: “Meþakkat” sözünün Türkçe kökenli karþýlýklarýndan biri
+GÜLLAÇ: Bir tür çiçek esansý ile hazýrlanan geleneksel tatlýmýz
+HACKER: Mahremiyeti hiçe sayan bilgisayar erbabý
+HACKER: Siber uzayýn korsanlarý
+HAFIZA: Kafa arþivi
+HALHAL: Adýmlara alým katan bir aksesuar
+HALHAL: Yere yakýn ziynet eþyasý
+HANÇER: Ýki yaný bilenmiþ býçak
+HANÇER: Oryantal kavisli kama
+HARAMÝ: Kelime anlamý “dinî bakýmdan yasak olana yönelen” olup “haydut, eþkýya” anlamýnda kullanýlan söz
+HARAMÝ: Oryantal haydut
+HARDAL: Ýsmine ait rengi olan bir tür sos
+HARÝTA: Yeryüzünün veya bir parçasýnýn, belli bir orana göre küçültülerek düzlem üzerine çizilmiþ taslaðý
+HASRET: Bir kimseyi veya bir þeyi görme, kavuþma isteði
+HAÞHAÞ: Bir tür narkotik çörek malzemesi
+HATIRA: Yaþanmýþ çeþitli olaylardan belleðin sakladýðý her türlü iz
+HATTAT: El yazýsýný sanata dönüþtürmüþ olan kiþi
+HAVALE: Bir iþi bir baþkasýnýn sorumluluðuna býrakma, ýsmarlama, devretme
+HAVYAR: Sosyetik yumurta
+HAYDAR: Cennetten çýkmýþ kalýn sopa
+HAYDAR: Sinirli deðnek
+HAYHUY: Gürültülü karýþýk durum, koþuþturmaca anlamlarýnda kullanýlan bir söz öbeði
+HAYLAZ: Kronik yaramaz
+HAYRAN: Hayret ile ayný kökten türeyen ve “tutkuyla beðenen” anlamýnda kullanýlan bir söz
+HAYRAT: Halkýn yararlanmasý için inþa edilen okul, çeþme, hastane gibi yapýlarýn genel adý
+HAZRET: Yüceliði kabul edilen kiþilerin adlarýnýn baþýna getirilen unvan
+HEKTAR: On bin metrekarelik veya on dönümlük alan ölçüsü birimi
+HELYUM: Uçan balonlarda da kullanýlan, solunduðu takdirde sesin ince çýkmasýna sebep olan bir gaz
+HEPTEN: Tamamýyla, büsbütün anlamýnda kullanýlan bir söz
+HERCAÝ: Aþký deðiþken olan, vefasýz sevgili anlamýnda kullanýlan bir söz
+HERCAÝ: Gelgeç gönüllü, vefasýz sevgili
+HERDEM: Sürekli, tüm zamanlarda anlamýndaki söz dizisi
+HEVENK: Bir ipe, bir çubuða geçirilmiþ, dizilmiþ veya birbirine baðlanmýþ yaþ meyve ve sebze baðý
+HEYKEL: Sanatsal bakýþ açýsýyla meydana getirilmiþ üç boyutlu form
+HEYKEL: Yontu da denen sanat eseri
+HIMBIL: Bedensel olarak atik, çevik olmayan, uyuþuk ve tembel anlamýndaki söz
+HINZIR: Domuz anlamýna gelen, sempatik ve haylaz kiþilere yönelik kullanýlan bir söz
+HIRÇIN: “Sinirli, huysuz, sert tavýrlý” anlamlarýnda bir söz
+HÝCRAN: Ayrýlýðýn neden olduðu onulmaz acý
+HÝCRET: Ýslam takviminde tarih baþlangýcý olan olay
+HÝDDET: Keskin öfke
+HÝDDET: “Öfke, kýzgýnlýk” anlamýnda Arapça kökenli bir söz
+HOPTEK: Postmodern kolbastý
+HORMON: Ýç salgý bezlerinden kana geçen ve organlarýn iþlemesini düzenleyen maddelerin genel adý
+HOÞBEÞ: Hatýr sormak için yapýlan sohbet
+HUNHAR: Kana susamýþ anlamýndaki söz
+HURAFE: Dine sonradan girmiþ yanlýþ inanç
+HÜSRAN: Hayal kýrýklýðý nedeniyle çekilen acý
+HÜSRAN: Hayal yýkýntýsý, beklenti enkazý
+HÜSRAN: Ýçe dert olan hayal kýrýklýðý, düþyýkýmý
+ILIMAN: Sýcaklýðý çok yüksek veya düþük olmayan yer veya iklim
+ÝADELÝ: Alýcýya imza karþýlýðý verilen, teslim edilemediði durumlarda göndericiye geri gönderilen posta
+ÝBADET: Ahirete yönelik manevi yatýrým
+ÝBÝBÝK: Diðer adý çavuþ kuþu olan, þarkýlara, hasret þiirlerine konu olmuþ bir kuþ türü
+ÝKÝNDÝ: Günün ikinci yarýsý
+ÝLLAKÝ: “Ne olursa olsun, hangi þartta olursa olsun” anlamlarýndaki söz
+ÝNTERN: Altýncý sýnýftaki mazlum týp öðrencileri için kullanýlan Ýngilizce kökenli bir söz
+ÝNZÝVA: Toplumsal yaþantýdan kaçýþ
+ÝPOTEK: Bir tür iktisadi rehin alma eylemi
+ÝPOTEK: Türkçe kökenli karþýlýðý “tutu” olan, taþýnmazý borca teminat etme iþi
+ÝRTÝFA: Yükseklik anlamýndaki söz
+ÝSABET: Güzel rastlantý
+ÝSKELE: Deniz taþýtlarý için kara baðlantýsý platformu
+ÝSTEKA: Bilardo deðneði
+ÝSTENÇ: Ýradenin ruh bilimindeki adý
+ÝÞAKDÝ: Çalýþma sözleþmesi
+ÝÞARET: Ünlü bir çocuk oyununda, avý piþirilmeye hazýrlayan parmak
+ÝÞÝNÝÞ: “Ýyi durumdasýn, senin için her þey yolunda gidiyor” anlamlarýnda kullanýlan bir söz dizisi
+ÝÞKOLU: Mesleki çalýþma dalý
+ÝÞLEME: El ile yapýlan ince süs
+ÝTALÝK: Eðik yazý
+ÝYÝLÝK: “Kayra, lütuf, kerem, ihsan, inayet” sözlerinin Türkçe kökenli karþýlýðý
+ÝZAHAT: “Açýklamalar” anlamýndaki Arapça kökenli bir söz
+JAKUZÝ: Kabarcýklý küvet
+JANJAN: “Yanardöner” anlamýndaki Fransýzca kökenli söz
+JÝGOLO: Ýcar sistemiyle çalýþan tacir zampara
+JÝGOLO: Kiralýk zampara
+JÜBÝLE: Sanatsal ve/veya sportif veda töreni
+JÜBÝLE: Spor ve sanattaki emektarlýk kutlamasý
+KABAET: Kuyruk sokumu bölgesi için kullanýlan bir tabir
+KABAET: Kuyruk sokumunun her iki yanýndaki þiþkin yer
+KABÝNE: Bakanlar Kurulu, hükûmet
+KAÇMAK: Ýnce çoraplar için “lifi kopmak” anlamýnda kullanýlan söz
+KADÝFE: Yumuþak ses tonlarýna da yakýþtýrýlan bir kumaþ türünün adý
+KADRAJ: Sinematografik çerçeve
+KAFÝLE: Kitlesel yolcu
+KAFÝYE: Bazý kelimelerin kendi içlerinde yarattýklarý ahenk
+KAFÝYE: Lirik kelime armonisi
+KAKTÜS: “Aþkýmýz için zorluklara katlanmalýyýz” anlamý taþýyan, radyasyon emdiði iddia edilen bitki
+KAKTÜS: Atlas çiçeði de denen bitkinin yaygýn adý
+KAMARA: Yüzen oda
+KAMBUR: Bedensel bir bozukluðun mecazen sýkýntý, dert, yük olan þey anlamýnda kullanýlan adý
+KAMPÜS: Türkçe adý “yerleþke” olan yüksek öðretim mýntýkasý
+KAMYON: Baþkomutanlýk Meydan Muharebesi’nde Türk ordusunun 198 adedine karþýlýk, Yunan ordusunda 4.000’den fazla bulunan motorlu taþýt
+KANADA: Dünyanýn en uzun kýyý þeridine sahip olan ülke
+KANCIK: Daha çok eþek, köpek ve kedilerin diþileri için kullanýlan bir söz
+KANDÝL: Müslümanlarca kutsal sayýlan ve kutlanan dört ayrý geceye verilen kýsa ad
+KANEPE: Alafranga sedir
+KANEPE: Üzerine türlü þarküteri ürünleri konulmuþ elit ekmek dilimi
+KANTAR: Ayný zamanda bir tartý aletinin adý olan, 56,452 kilograma denk eski bir aðýrlýk ölçüsü birimi
+KANTÝN: Kurum ve kuruluþlardaki yeme içme, sosyalleþme mekâný
+KAPORA: Ticari yüz görümlüðü
+KAPRÝS: Naz yaðmuru
+KAPRÝS: Sofistike huysuzluk
+KAPSÜL: Mermilerin boþ kovanlarý, bitki tohumlarýnýn kuru kabuklarý ve ilaçlarýn jelatin kaplarý için kullanýlan söz
+KARACA: Siyahi ceylan
+KARPUZ: Adýný bir meyveden alan, ýþýðý yumuþatmak için kullanýlan mat lamba küresi
+KARPUZ: Bazý lambalarda ýþýðý yumuþatmak için kullanýlan bir tür cam küre
+KARPUZ: Büyümemiþine þalak denen meyve
+KARPUZ: Yüzde seksen sekizi su olan bir meyve
+KARÞIN: Arapça kökenli “raðmen” sözünün Türkçe kökenli karþýlýðý
+KASNAK: Enli çember
+KASVET: Ýç sýkýntýsý
+KAÞAÐI: Týmar taraðý
+KAÞGÖZ: Etmek fiiliyle birlikte bakýþlar ve mimiklerle bir þeyler anlatmaya çalýþmak
+KAÞGÖZ: Etmek fiiliyle birlikte “mimiklerle gizlice iþaretleþmek” anlamýnda kullanýlan söz dizisi
+KAÞKOL: Boyun atkýsý
+KATMER: Yaðlanýp katlanarak hafif ateþte kýzartýlan ince yufka ekmeði
+KAVRAM: “Mefhum” ve “nosyon” sözlerinin Türkçe kökenli karþýlýðý
+KAVRUK: Hem “iyi geliþememiþ, zayýf kalmýþ” hem de “yanýp kurumuþ” anlamlarýnda kullanýlan bir söz
+KAVÞAK: Trafiðin kesiþme noktasý
+KAYGAN: Sürtünme katsayýsý az olan yüzeyleri niteleyen sýfat
+KAYISI: Beyazý tam, sarýsý az piþmiþ yumurta
+KAYKAY: Akrobasi için de kullanýlan bir tür motorsuz tekerlekli eðlence aracý
+KAYKAY: Daha çok akrobasi için kullanýlan tekerlekli bir oyun taþýtý
+KAYKAY: Dört tekerlekli akrobatik eðlence taþýtý
+KAYMAK: Yoðunlaþtýrýlmýþ süt yaðý
+KAYMAK: Pekiþmiþ süt, alaturka krema
+KAYNAK: Ýki metal parçayý ýsý yoluyla birleþtirme yöntemi
+KAYNAK: Yapmak fiiliyle bir kuyruða veya sýraya hak yiyerek girmek
+KAYZER: Franz Beckenbauer’in de lakabý olan, “Alman kralý” anlamýnda bir söz
+KAZANÇ: Satýlan mal, yapýlan iþ, harcanan emeðin getirisi; yarar, çýkar, kâr
+KEMKÜM: Mutlaka yanýtlanmasý gereken bir soruya cevap bulunamadýðýnda sarf edilen geliþigüzel sözler
+KEMKÜM: Mütereddit konuþma sesi
+KERMES: Alým satým amaçlý dernek organizasyonu
+KESKÝN: Sert, etkili hatta yakýcý tat ve kokular için kullanýlan bir sýfat
+KESMEK: Ýskambil kartý destesini ikiye ayýrmak
+KIBRIS: Akdeniz’deki en büyük üçüncü ada
+KILÇIK: Fasulye, bakla gibi sebzelerin yeþil kabuðunda bulunan sert ve uzun lif
+KIRAÐI: Doðayý örten ince buz billuru
+KIRBAÇ: Þiddet yoluyla performansý arttýrmaya yönelik bir el aleti
+KISACA: Ezcümle, hülasa, hülaseten sözlerinin güncel Türkçedeki karþýlýðý
+KISKAÇ: Bir þeyi tutup sýkýþtýrmaya yarayan pens benzeri araç
+KISMET: Evlenme talihi
+KISRAK: Sütünden alkollü bir içecek yapýlan hayvan
+KITLIK: Yoksunluðun genele yayýlmýþ hâli
+KIYMIK: Çok küçük ve sivri tahta parçasý
+KIZEVÝ: Müstakbel gelinin ailesi ve yaþadýklarý konut
+KÝBRÝT: Alevli kürdan
+KÝMONO: Japon kaftaný
+KÝNDAR: Yapýlan kötülüðü unutmayan, intikam kumkumasý
+KÝRPÝK: Uzun, dolgun, sýk ve kývrýmlý olanlarý cazibe ögesi sayýlan bedenimizdeki ipliksi uzantýlar
+KÝTABE: Çevresi kabartmalý silmeli, üzerinde yazý olan büyük taþ
+KLASÝK: Üzerinden çok zaman geçtiði hâlde deðerini yitirmeyen, türünde örnek olarak görülen eser
+KLAVYE: Bazý müzik aletlerinde ve bazý yazý araçlarýnda bulunan tuþ sýralarý bütünü
+KOKONA: Sofistike kocakarý
+KOKONA: Yaþý geçkin kokoþ
+KOKPÝT: Pilot mahalli
+KOLONÝ: Yerleþik göçmen topluluðu veya yerleþtikleri yer anlamýnda Fransýzca kökenli bir söz
+KONFOR: Yaþamý daha az zahmetli kýlan her tür maddi rahatlýk
+KONGRE: Ulusal ya da uluslararasý toplantý
+KONKEN: Eski Türk filmlerinde, koca parasýyla oynanan bir iskambil oyunu
+KONSOL: Bir mobilya türünün, TV’lere baðlanan oyun sistemlerinin ve otomobillerin iç ön panellerinin ortak adý
+KONSOL: Duvar kenarýna yerleþtirilen, çekmeceli, dolaplý mobilya
+KONSOL: Video oyunlarý için kullanýlan, ayný zamanda bir mobilyanýn da adý olan eðlence cihazý
+KONTRA: Karþý, karþýt, zýt anlamlarýnda, genellikle ön ek olarak kullanýlan Ýtalyanca kökenli söz
+KONVOY: Ayný yere giden eden taþýt veya yolcu topluluðu, kafile
+KOPMAK: Mecazi anlamda, “bir anda kahkahalara boðulmak”
+KORDON: Sulak piyasa caddesi
+KORKAK: Kötülüðe ve/veya tehlikeye karþý gereken cesareti gösteremeyen kiþi
+KORSAN: Deniz haydudu
+KOÞMAK: Hayvaný çekeceði araca baðlamak
+KÖREBE: Reflekslere, iþitme duyusuna ve sezgilere dayanan bir çocuk oyunu
+KÖSKÖS: Baþý önde, saða sola bakmadan, yorgun, üzgün ve düþünceli bir hâlde anlamlarýndaki ikileme
+KÖSTEK: Mecazi anlamda engel, ayak baðý
+KRAKER: Gevrek tuzlu bisküvi
+KRAVAT: Bir tür aksesuarýn Fransýzca “Hýrvatlar” anlamýna gelen kelimeden türeyen adý
+KRAVAT: Klasik Babalar Günü hediyesi
+KRAVAT: Kökeni Hýrvatlara dayanan, dünyanýn en yaygýn kullanýlan erkek giyim aksesuarý
+KRAVAT: Medeniyet yularý
+KROKAN: Fýndýk, fýstýk gibi ürünleri þeker veya balla karýþtýrýp sertleþtirerek hazýrlanan tatlý
+KUAFÖR: Bakým ve sosyalleþme mekâný
+KUDRET: Güç, erk, iktidar anlamlarýnda bir söz
+KULÜBE: Ýnsanlar veya bazý evcil hayvanlar için inþa edilen türlü basit barýnaklara verilen genel ad
+KUMPÝR: Hýzlý yemek sektörüne adapte olmuþ fýrýnlanmýþ patates
+KUNDAK: Tüfeklerin namlu altýnda bulunan tutacak kýsmý
+KUNDUZ: Su setleri inþa etmeyi insanoðlundan daha önce akýl etmiþ olan hayvan
+KUNGFU: Uzak Doðu gizemciliðiyle beslenen felsefi darp sanatý
+KURMAK: Yaylý, zemberekli düzeneklerde yayý veya zembereði germek
+KURMAY: Yüksek lisans yapmýþ ve karmaþýk harekat planlarý kurma konusunda kýdem sahibi olan subay
+KURÞUN: Nazar, büyü, hastalýk gibi þeyleri önlemek, iyileþtirmek için yapýlan bir iþlemde kullanýlan maden
+KURTLU: Psikolojiyi ciddiye almayan zihinlere göre “hiperaktif” sözünün eþ anlamlýsý
+KURTLU: Yerinde rahat duramayan, sürekli hareket etme isteði içinde olan, otantik hiperaktif
+KÜBÝZM: Geometrik gerçeküstücülük
+KÜBÝZM: Geometrik þekilleri vurgulayan bir sanat akýmý
+KÜBÝZM: Nesneleri geometrik biçimlerle yansýtan bir sanat akýmý
+KÜKÜRT: Eski dilde kibrit ya da sülfür de denen bir element
+KÜNEFE: Kadayýf ve tuzsuz peynirin hararetli bileþkesi
+KÜNEFE: Peynirin en sýcak ve en tatlý hâli
+KÜSTAH: Asýl anlamý “kendinden emin, cesur” olup “saygýsýz, edepsiz, terbiyesiz” anlamýna bürünmüþ bir söz
+KÜSTAH: Saygýsýzlýðý meziyet olarak kabul eden kiþi
+LAKLAK: Karþýlýklý olarak, geliþigüzel bir biçimde, havadan sudan konuþma
+LAKROS: Ucunda küçük bir topu taþýyabilecek bol bir að bulunan, sopalarla oynanan bir spor
+LAPTOP: Dünyayý insanoðlunun dizlerine getiren teknoloji
+LAVABO: Adý “tuvaletin kibarcasý” olarak kabul edilen vitrifiye ürün
+LEVENT: Osmanlý donanmasýnda ve kýyýlarýnda görev yapan asker sýnýfý
+LEZYON: Doku bozukluðu
+LÝBERO: Futboldaki son adam
+LOSTRA: Ayakkabý boyacýlýðýnýn sýnýf atlamýþ hâli
+LÜTFEN: Asýl anlamýyla rica bildirirken, mecazen “istemeyerek, gönülsüzce” anlamýnda kullanýlan söz
+MAAÝLE: “Tüm ev halkýyla birlikte” anlamýndaki söz
+MACERA: Ýlginç, heyecanlý ve sýra dýþý olaylar silsilesi
+MADARA: “Olmak” fiiliyle birlikte, “utanacak duruma düþmek, rezil olmak” anlamýnda kullanýlan argo sözcük
+MAGNET: Buzdolabý süsü
+MAÐARA: Gün ýþýðý ile baðlantýsý kaybolacak derinliðe sahip yer altý boþluðu
+MAÐARA: Ýnsanoðlunun ilk çaðlardan günümüze kadar kullanmayý sürdürdüðü doðal barýnak
+MAÐRÝP: Eski dilde batý anlamýnda da kullanýlan, Kuzey Afrika ülkelerine topluca verilen ad
+MAÐRUR: Gurura kapýlmýþ, kibirli
+MAÐRUR: Gururunu dýþ görünüþüne yansýtmýþ olan kiþi
+MAHLUK: Canlý varlýk, yaratýk
+MAHMUZ: Çýkardýðý karakteristik ses birçok kovboy filminde efekt olarak kullanýlan bir tür binicilik aparatý
+MAHSUR: Kalmak fiiliyle birlikte “bir yerden çýkamamak” anlamýnda kullanýlan söz
+MAHÞER: Hüküm gününün miting alaný
+MAHÞER: Ýnsaný boðan kalabalýklar için yakýþtýrma yollu kullanýlan söz
+MAHÞER: Kýyamet mitingi
+MAHZUN: Yüzünde hüzün olan, üzgün
+MAKALE: Açýklayýcý veya yorumlayýcý niteliði olan gazete veya dergi yazýsý
+MAKTUL: Cinayete kurban giden kiþi
+MAKYAJ: Kýrmýzý ýþýk, dikiz aynasý ve kadýn þoförün oluþturduðu bað
+MAKYAJ: Yüz süsleme sanatý
+MAKYÖZ: Fizyonomiyi þekillendiren meslek erbabý
+MALTOZ: Arpa þekeri
+MANDAL: Kapýlarý kapalý tutmaya yarayan, döner tahta veya metal parça
+MANGIR: Bakýrdan yapýlmýþ, iki buçuk para deðerindeki sikkenin hâlen argoda “para” anlamýnda kullanýlan adý
+MANÝSA: Eskiden “þehr-i þehzade”, “þehzadeler þehri” de denen ilimiz
+MANÝSA: 8 Eylül 1922 tarihinde iþgalden kurtulan ilimiz
+MANÝTA: Argoda sevilen ve baðlýlýk duyulan kiþi
+MANÝTA: Dilimize Yunancadan girmiþ olan sevgili anlamýndaki kelime
+MANKEN: Oluþan iþ kazasýnda kimsenin üzülmediði meslek grubu
+MANTAR: Höbelen, göbelek, domalan gibi cinsleri bulunan ökaryotik canlý
+MANTIK: Doðru düþünme sanatý ve bilimi
+MANTIK: Doðru ve yanlýþ arasýnda akýl yürütmenin ayrýmýný yapan disiplin
+MANTIK: Önceleri bir felsefe dalýyken matematik ve bilgisayar biliminin parçasý hâline gelen disiplin
+MANUEL: Elle iþletilen anlamýnda yabancý kökenli bir söz
+MARABA: Bazý yöresel aðýzlarda “çiftçi, ortakçý” anlamýnda kullanýlan bir söz
+MARÝNA: Sosyetik liman
+MARKÝZ: Ýki kiþilik geniþ koltuklara da adýný veren, Batý aristokrasisinde kadýnlara yönelik bir unvan
+MARPUÇ: Nargile aðýzlýðý
+MARSIK: Bir tür kömürün, “çok koyu tenli insanlar” için yakýþtýrma yollu kullanýlan adý
+MAYHOÞ: Ekþimsi tatlý
+MAYMUN: Ýþtahýyla gelip geçici hevesleri tanýmlayan bir hayvan
+MECZUP: Ýlahi aþkla kendinden geçmiþ olan
+MEDDAH: Alaturka “stand-up”çý
+MEDDAH: Eski zaman kahvehanelerindeki otantik performans sanatçýsý
+MEDDAH: Eski zamanlarýn tek kiþilik komedi gösterisi ustasý
+MEDDAH: Nesli tükenmiþ, hikâyeden sermayeli bir tür performans sanatçýsý
+MEDYUM: Maddi âlem ile ruhlar âlemi arasýnda aracýlýk yapan kiþi
+MEDYUM: Ruh ve doðaüstü iletiþim simsarý
+MEHTAP: Dünya’nýn uydusunun narin aydýnlýðý
+MELTEM: Briz de denen, yazýn denizden karaya esen mevsim rüzgârý
+MEMELÝ: Doðurarak çoðalan, dünya üzerindeki ortalama 4500 farklý canlý türünün ortak adý
+MENDÝL: Eski zamanlarda flört ve iletiþim amaçlý kullanýlan kiþisel eþya
+MENTAL: Zihinsel anlamýndaki Ýngilizce kökenli söz
+MENTOL: Nane esansýndan elde edilen, renksiz, keskin kokulu bir tür alkol kristali
+MENZÝL: Ulaþýlabilinen uzaklýk, erim
+MERCAN: Ilýk denizlerde birikerek resifler oluþturan kalker iskeletli hayvan
+MERCAN: Süs eþyasý materyali olarak kullanýlan deniz mahsulü
+MERCEK: Gözde ve çeþitli optik aletlerde odaklamayý saðlayan bölüm
+MERKEP: Kelime anlamý “binek” olup dilimizde “eþek” anlamýnda kullanýlan Arapça kökenli söz
+MERSÝN: Bir aðacýn, bir balýðýn ve Akdeniz Bölgesi’ndeki bir ilimizin ortak adý
+MERTEK: Yapýlarda kullanýlan dört köþe veya yuvarlak, kalýnca aðaç
+MESANE: Eskiden kavuk da denen idrar torbasýnýn Arapça kökenli adý
+MESELE: Çözülmesi güç olan sorun
+MEÞGUL: Bir iþle uðraþan, iþ görmekte olan
+METRES: Profesyonel sevgili
+MEVSÝM: Ýklim þartlarýna göre farklýlýk gösteren her bir dönem
+MEZHEP: Bir ilahi inancýn yorum, görüþ, anlayýþ farkýyla ortaya çýkan kollarýndan her biri
+MEZURA: Þerit metre
+MIZRAK: Ýnsanoðlunun icat ettiði ilk uzun menzilli silah
+MÝGREN: Yarým baþ aðrýsý
+MÝÐFER: Kadim cengâver kaský
+MÝÐFER: Tarihî savaþ baþlýðý
+MÝHRAP: Mecazi olarak “umut baðlanan yer” anlamýnda kullanýlan, camilerde Kâbe yönünü gösteren bölümün adý
+MÝKADO: Kemik veya tahtadan yapýlmýþ çöpleri hiç oynatmadan toplamaya dayanan Japon oyunu
+MÝKADO: 41 çubukla oynanan, Uzak Doðu’ya özgü bir dikkat, konsantrasyon ve yetenek oyunu
+MÝKÂÝL: Dört büyük melekten rýzýklarý bölüþtürmekle görevli olaný
+MÝKTAR: Bir þeyin ölçülebilen, sayýlabilen veya azalýp çoðalabilen durumu, nicelik
+MÝLFÖY: Kalabalýk misafirleri aðýrlarken hayat kurtaran bir tür yaðlý hamur
+MÝLYAR: Bilyon da denen sayý
+MÝNBER: Camilerde hutbe okunan merdivenli, yüksekçe yer
+MÝSÝNA: Adýný Sicilya Adasý’ndaki bir kentten alan balýk avý malzemesi
+MÝSKET: Baþkentimiz ve çevresinden doðup tüm yurt sathýna yayýlan bir oyun havasý
+MÝTÝNG: Yüksek sayýda katýlýmla gerçekleþtirilen açýk hava toplantýsý
+MONÞER: “Davranýþlarýnda Batý özentisi içinde bulunan” anlamýnda da kullanýlan Fransýzca kökenli bir hitap sözü
+MORFÝN: Adýný mitolojideki rüya ve hayal tanrýsýndan alan, afyondan elde edilen bir alkaloit
+MOZAÝK: Bir süsleme sanatýnýn, türlü kültür örgülerinden oluþan insan topluluklarý ve coðrafyalar için de kullanýlan adý
+MOZAÝK: Küçük taþlarla yapýlan süsleme veya resim
+MOZOLE: Anýt mezar
+MUÐLAK: “Anlaþýlmasý güç, anlaþýlmaz, karýþýk, çapraþýk” anlamlarýnda Arapça kökenli bir söz
+MUSHAF: “Sahife” kökünden türemiþ, “kitap” özellikle de “Kur’an” anlamýnda kullanýlan söz
+MUTANT: Deðiþime uðramýþ süper kahramanlarýn biyolojideki karþýlýðý
+MUTFAK: Bir kültüre ait olan yiyecek hazýrlama sanatý
+MÜSHÝL: Baðýrsak dopingi
+MÜTHÝÞ: Korkuya düþüren, dehþetli anlamlarýndaki söz
+MÜTHÝÞ: Þaþýlacak kadar deðiþik anlamýndaki söz
+NAHÝYE: Ýlçe semti
+NAKAVT: Yere düþen boksörün on birinci saniyede yaþadýðý hezimet
+NAMERT: Adil çarpýþmadan kaçýnan korkak ve alçak kiþi
+NANKÖR: Sadakatsiz, vefasýz, iyilikbilmez anlamlarýnda bir sýfat
+NAPALM: Alev makinelerinde ve yangýn bombalarýnda kullanýlan bir madde
+NEAYAK: Argoda garip bir durumu, anlaþýlmaz bir hâli sorgularken kullanýlan kaba bir tabir
+NEMRUT: Gaddarlýðý ve suratsýzlýðýyla adýný ölümsüzleþtiren Asur/Babil ülkesi hükümdarý
+NEMRUT: Yüzü gülmeyen, asýk suratlý kiþiler için kullanýlan, tarihe geçmiþ zalim bir kralýn adý olan söz
+NEPTÜN: Adýný Roma deniz tanrýsýndan alan Güneþ sisteminin sekizinci gezegeni
+NESÝNE: Halk aðzýnda iddiaya girerken kazanan tarafa verilecek ödülü kararlaþtýrmak için kullanýlan söz
+NESNEL: Mecazi anlamda gerçeðe varmak amacýyla, taraf tutmadan inceleme yapan, hüküm veren
+NESNEL: “Objektif” sözünün Türkçe kökenli karþýlýðý
+NEÞELÝ: “Þad” sözünün günümüz Türkçesindeki karþýlýðý
+NEVALE: Yemek içmek için ayrýlmýþ þeyler, azýk
+NEVROZ: Ruhsal kaynaklý sinir hastalýðý
+NEVRUZ: Eski takvimlere göre yýlýn ve baharýn ilk günü
+NÝSPET: Birini üzmek veya kýskandýrmak için yapýlan þey
+NÝSPET: Haset doðuran gösteriþ
+NURSUZ: Karanlýk çehreli, dýþ görünüþüyle olumsuz duygular uyandýran kiþilere yönelik bir söz
+NÜDÝST: Çýplaklýk yanlýsý
+OFSAYT: Futbolda karþý takýmýn kale çizgisine rakipten daha yakýn olunduðunda ortaya çýkan durum
+OFSAYT: Kelime anlamý “taraf dýþý”, Türkçe karþýlýðý “yanýða düþme” olan futbol terimi
+OKLAMA: “Dart” oyununun Türkçe kökenli adý
+OKLAVA: Hamur iþi deðneði
+OLAÐAN: Sýk sýk meydana gelen, alýþýlmýþ, normal
+OMURGA: Vücuda destek saðlayan kemik yapý ile gemi kaburgasýný taþýyan ana yapýnýn ortak adý
+OTOPSÝ: Ölüm muayenesi
+OTURAK: Bodur iskemle
+OTURAK: Çengi oynatýlan içkili âlem
+OTURAK: Çoðunlukla Ýç Anadolu’ya özgü olan hovarda âlemi
+ÖNAYAK: Olmak fiiliyle birlikte “bir iþi baþlatmak, örnek teþkil etmek” anlamlarýna gelen birleþik kelime
+ÖNSEZÝ: “Hissikablelvuku” sözünün günümüz Türkçesindeki karþýlýðý
+ÖPÜCÜK: Acýyý bile hafiflettiði varsayýlan sevgi göstergesi
+ÖRTBAS: Etmek fiiliyle “bir durumun, olayýn duyulmamasýný, yayýlmamasýný saðlayan önlemler almak” anlamýna gelen söz
+ÖSTAKÝ: Burun boþluðu ile orta kulaðý birleþtiren boru biçimindeki yol
+ÖZBEÖZ: “Kan baðý ile baðlý” veya “hakiki” anlamýnda kullanýlan pekiþtirilmiþ bir söz
+ÖZENTÝ: Benliðini bertaraf edip beðendiðiyle benzeþen berbat
+ÖZVERÝ: Kendi çýkarlarýndan vazgeçme, fedakârlýk
+PANAMA: Ýsmini bir ülkeden alan yumuþak, hasýr þapka türü
+PANCAR: Normalden daha fazla kýrmýzý yüz ve yanaklarýn benzetildiði yumru köklü sebze
+PANDÝK: Edepsiz çimdik
+PAPYON: Fiyonklu kravat
+PAPYON: Bir giysi aksesuarýnýn, “kelebek” anlamýndaki Fransýzca kökenli sözden türemiþ olan adý
+PARMAK: Arþýnýn yirmi dörtte biri olan eski bir uzunluk ölçüsüne adýný veren uzuv
+PARMAK: Bardaða koyulan içeceðin seviyesini ölçmekte kullandýðýmýz uzvumuz
+PARMAK: Hesap yapmak için kullanýlan uzuvlarýmýzdan her biri
+PARSEL: Belli bir arazi parçasýna, imar yasalarýna göre ayrýlýp sýnýrlandýrýldýktan sonra verilen ad
+PASPAS: Kara yollarý sayesinde temizlenen, yayaya hizmet eden temizlik gereci
+PASPAS: Misafiri ev sahibinden önce karþýlayan kapý önü aksesuarý
+PASTEL: Boyar maddelerin katý bir hamur olana kadar karýþtýrýlmasýyla elde edilen çubuk biçimli boya
+PASTÝL: Onmak için emilen þifalý bonbon
+PATENT: Buluþ belgesi anlamýndaki yabancý kökenli söz
+PATÝKA: Aþýndýkça geliþen bir yol türü
+PATRON: Kumaþýn uygun þekilde kesilmesine yarayan, giysi parçalarýna göre biçilmiþ kaðýt kalýp
+PAVYON: Erkek egemen eðlence mekâný
+PEKÂLÂ: Kabul etmeyi belirten söz
+PERGEL: Ölçüm ve çizim için kullanýlan, iki koldan meydana gelen bir alet
+PERÝLÝ: Ruhlarýn veya doðaüstü yaratýklarýn bulunduðuna inanýlan, tekin olmayan yerler için kullanýlan sýfat
+PESTÝL: Baský altýnda kurutulmuþ meyve ezmesi
+PESTÝL: Bastýk da denen yufka biçiminde kurutulmuþ meyve ezmesi
+PEÞREV: Yaðlý güreþte pehlivanlar için gövde gösterisi, T.s.m.nde giriþ taksiminden sonra çalýnan parça
+PETROL: Yer altýndan çýkarýlan doðal yanýcý mineral yað
+PEYZAJ: Kýr resmi veya bir yerin doðal görünüþü anlamýna gelen Fransýzca kökenli söz
+PÝJAMA: Abiye olmayan gece kýyafeti
+PÝJAMA: Adýna partiler düzenlenen dinlenme kýyafeti
+PÝKNÝK: Açýk havada yenen günübirlik gezi yemeði
+PÝKNÝK: Pastoral kayýntý
+PÝRÝNÇ: Bakýra çinko katýlarak elde edilen bir alaþým
+PÝRÝNÇ: Bakýr ve çinko alaþýmý
+PÝRÝNÇ: Kabuðu ayýklanmýþ çeltik
+PÝRÝNÇ: Uzak Doðu halklarýnýn büyük bir kýsmýnýn ana besin kaynaklarýndan olan tahýl
+PÝÞKÝN: Ýþini bilen yüzsüzlere yönelik bir tabir
+PÝÞKÝN: Lisanslý yüzsüz
+PÝÞTOV: Misket tüfeðinin kýsaltýlmýþý olan tarihi tabanca
+PÝÞTOV: Tek atýmlýk kadim tabanca
+PÝYADE: Kara ordusundaki temel muharip sýnýf
+PLANÖR: Yedekte çekilen veya hava akýmlarýndan faydalanarak uçan bir taþýt
+POLÝÇE: Sigorta senedi
+POSTÝÞ: Takviye peruðu
+PÖRSÜK: Gevþeyip sarkmýþ anlamýnda bir söz
+PRÝMAT: Ýnsanlarý da içine alan memeliler takýmý
+PRÝZMA: Iþýk ayrýþtýrýcý saydam cisim
+PROMÝL: Kandaki alkol miktarýný gösteren birim
+PROTEZ: Yapay uzuv
+PUDÝNG: Ýngiltere kökenli, hazýr yemek sanayisinin zirvesinde olan tatlý türü
+PUSULA: Yön belirteci
+RAFÝNE: Ýncelmiþ, arýtýlmýþ, saflaþtýrýlmýþ anlamýndaki yabancý kökenli söz
+RAHMET: Acýma, esirgeme, merhamet etme anlamlarýndaki söz
+RAHMET: Genellikle Tanrýsal baðýþlar ve baðýþlamalar için kullanýlan bir söz
+RAHMET: Tanrý baðýþý
+RAHVAN: Binek hayvanlarýnýn biniciyi sarsmayan en yavaþ koþma biçimi
+RASTIK: Nostaljik kaþ boyasý
+REÇETE: Alamet-i farikasý çözülemeyen el yazýsý olan ilaç pusulasý
+REÇETE: Deva listesi
+REPLÝK: Sahne kelamý
+REVANÝ: Yumurta ve irmikle yapýlan, fýrýnda kabarýp piþtikten sonra þerbeti dökülen bir tatlý
+REYHAN: “Fesleðen”in diðer adý
+REZENE: Hekimlikte gaz söktürücü olarak kullanýlan, çay olarak da tüketilen bir bitki
+RIHTIM: Doldurularak yükleme boþaltma yapýlmasýna imkanlý hale getirilmiþ deniz kýyýsý
+RÝAYET: Etmek fiiliyle birlikte “uymak, boyun eðmek” anlamýnda kullanýlan eski bir söz
+ROZBÝF: Kýzartýlmýþ sýðýr etinin alafranga ismi
+RÖVANÞ: “Ýntikam” anlamýndaki yabancý kökenli sözden türetilmiþ olan bir spor terimi
+RUHSAT: Ýzin belgesi
+RUHSUZ: Belli bir duygu, bir canlýlýk ifadesi taþýmayan, tinsel bir varlýk göstermeyen
+RÜZGÂR: Atmosferdeki havanýn dünya yüzeyine yakýn, doðal yatay hareketleri
+SABÝHA: “Dünyanýn ilk kadýn savaþ pilotu” unvanýnýn sahibi, Atatürk’ün manevi kýzý, “Gökçen” soyadlý Türk kadýný
+SADAKA: Çaresizlikten dolayý alýnan ve karþýlýðý hayýr duasý olarak ödenen para
+SADAKA: Ýlahi sigorta primi
+SADAKA: Kutsal bahþiþ
+SAFARÝ: Afrika’ya özgü, av veya turistik amaçla çýkýlan gezi seferi
+SAFARÝ: Genellikle ketenden, açýk toprak tonlarýnda, bol cepli gömlek ve diðer kýyafetlere verilen ön ad
+SAFARÝ: Vahþi doða gezisi
+SAFRAN: Kendi aðýrlýðýnýn 100.000 katý suyu sarý renge boyayabilen bir baharat
+SAFRAN: Sarý boya veren soðanlý bitki
+SAÐDIÇ: Güvey yaveri
+SAÐKOL: Mecazen birinin en iyi yardýmcýsý, en çok güvendiði kimse
+SAÐMAL: Bol süt veren hayvanlar için kullanýlan bir söz
+SAHABE: Hz. Muhammed’i görmüþ ve onun sohbetinde bulunmuþ Müslümanlar, ashap
+SALATA: Çið zerzevat harmaný
+SALGIN: “Endemi, epidemi ve pandemi” denen, hastalýklar için kullanýlan Türkçe kökenli sözcük
+SALÝSE: Saatin 216.000’de biri
+SALKIM: Ayný sapa baðlý meyve kümesi
+SANAYÝ: 18. ve 19. yüzyýllarda atýlýma geçip insanlýk tarihine yön veren toplu üretim faaliyetlerinin adý
+SANSÜR: Basýn, yayýn ve haberleþme ile sinema ve kitap yapýtlarýnýn hükümetçe denetlenmesi ve kýsýtlanmasý
+SANSÜR: Erk sahiplerinin iletiþim ve kültürü sýnýrlamasý, sýký denetim
+SANTRA: Futbolda hem orta yuvarlak hem baþlama vuruþu anlamlarýnda kullanýlan söz
+SAPMAK: Belli bir doðrultuda ilerlerken yön deðiþtirmek
+SARHOÞ: Sermest sözünün yaygýn kullanýlan eþ anlamlýsý
+SARKIT: Maðaralarýn tavanýnda aþaðýya doðru oluþan, genellikle koni biçiminde kalker birikintisi
+SARNIÇ: Yaðmur suyu biriktirmeye yarayan yer altý su deposu
+SATMAK: Argoda sözünde durmayýp birini yarý yolda býrakmak
+SAVSAK: Ýþlerine önem vermeyen, ihmalkâr
+SEÇKÝN: Benzerleri arasýnda nitelikleriyle göze çarpan, üstün
+SEÇKÝN: Mümtaz, güzide, mutena sözlerinin Türkçe kökenli karþýlýðý
+SEHVEN: Dalgýnlýk veya unutkanlýk sonucunda oluþan, yanlýþlýkla
+SEKSEK: Dokuz karenin belirli bir þekilde geçilmesine dayanan çocuk oyunu
+SEKSEK: Sýrasýyla çizim yeteneði, hedefi tutturabilme ve denge isteyen bir çocuk oyunu
+SEKTÖR: Bölüm, dal, kol, kesim anlamlarýna gelen yabancý kökenli bir söz
+SENSEÝ: “Önce doðan” anlamýna gelen, “öðretmen, usta” anlamýnda kullanýlan Japonca kökenli söz
+SENSÖR: Türkçe karþýlýðý duyarga olan yabancý kökenli söz
+SEPTÝK: Açýk bir biçimde kanýtlanmamýþ her þeyden þüpheye düþen, kuþkucu
+SERPME: Küçük porsiyonlardaki çok çeþitli kahvaltýlýklarla yapýlan kahvaltýnýn ön adý
+SERSEM: Bir hakaret sözü olarak da kullanýlan, “bilinci ve duygularý zayýflamýþ” anlamýnda bir söz
+SERVET: Zenginlik, varlýk, mal mülk anlamýnda bir söz
+SERVÝS: Sofra hizmeti
+SEYMEN: Ýç Anadolu efesi
+SEYRAN: “Gezme, gezinme, gezip görme” anlamlarýnda eski bir söz
+SIZMAK: Uykunun çatlaklarýndan, gözeneklerinden yavaþça içeriye akmak
+SÝESTA: Hispanik öðle uykusu
+SÝESTA: Ýspanyollara ve Latin Amerikalýlara özgü öðle tatili
+SÝGARA: Ölçü birimi olarak “dal” sözü kullanýlan tütün ürünü
+SÝNEMA: Yedinci sanat
+SÝNMEK: Kendini göstermemek için büzülmek, saklanmak
+SÝPAHÝ: Osmanlý ordusunun aðýr süvari sýnýfý askeri
+SÝPALÝ: Roman jargonunda “para” anlamýnda kullanýlan söz
+SÝSTEM: Bir sonuç elde etmeye yarayan yöntemler düzeni
+SLALOM: Kayak sporundaki bol dönemeçli bir pist yarýþý
+SLOGAN: Bir kampanya veya propagandada kullanýlan kýsa ve çarpýcý söz
+SOLGUN: Rengini, tazeliðini, canlýlýðýný veya parlaklýðýný kaybetmiþ olan
+SOYDAÞ: Ayný atadan gelen kiþiler
+SÖKMEK: Karýþýk bir yazýyý okumak
+STÜDYO: Sanat çalýþmalarý için düzenlenmiþ oda
+SUDOKU: “Rakam yerleþtirme” de denen Japon iþi bulmaca
+SULTAN: Yönetmen olarak da birçok filme imza atan efsanevi kadýn oyuncumuzun lakabý
+SUSMAK: Onaylamak ve ikrarla eþ deðer görülen eylem
+SUSPUS: “Olmak” fiiliyle birlikte “sesini çýkaramamak, sinmek” anlamýnda kullanýlan söz
+SUTOPU: Rutubetli hentbol
+SÜLALE: Soyu oluþturan hýsým akraba
+SÜMSÜK: Mecazen uyuþuk, mýymýntý, sünepe anlamýnda kullanýlan bir su kuþunun adý
+SÜNNET: Kitlesel olarak da yapýlabilen bir tür cerrahi operasyon
+SÜRAHÝ: Bazý yörelerde çinko, bakýr veya topraktan yapýlanlarýna “bocit” denen içecek kabý
+SÜRGÜN: Uzaklaþtýrmaya yönelik cezalandýrma türü
+SÜTLAÇ: Süt, þeker ve pirinçten yapýlan bir tür tatlý
+ÞAKRAK: Adý “þen, neþeli, hayat dolu” anlamlarýnda kullanýlan bir ötücü kuþ
+ÞALTER: Elektrik akýmýný açýp kapamaya yarayan anahtar düzeneðinin Almanca kökenli adý
+ÞALTER: Elektrik çevirgeci
+ÞALVAR: 90’lý yýllarýn baþlarýnda rap þarkýcýlarý sayesinde küresel popülerliðe eriþen bir pantolon türü
+ÞAMATA: Coþkulu eðlencelerden doðan gürültü patýrtý
+ÞAMATA: Gürültülü eðlence
+ÞAMDAN: Afili mumluk
+ÞAMDAN: Üzerine kandil, mum veya herhangi bir ýþýk kaynaðý konulan yüksek tabla
+ÞAPLAK: Adýný çýkardýðý sesten alan tokat
+ÞAPLAK: Akustik þamar
+ÞAPÞAL: Sempatik aptal
+ÞEBBOY: Adý, Farsça “gece kokan” anlamýndaki bir sözden türeyen çiçek
+ÞEHVET: Seksüel þevk
+ÞELALE: Akarsu uçurumu
+ÞELALE: Bir akarsu yataðýndaki ani, büyük yükseklik deðiþimi nedeniyle oluþan, “çavlan” da denen yer
+ÞENLÝK: Coþkulu, toplumsal eðlence
+ÞIRDAN: Son zamanlarda kýtlýðý yaþanan Adana’ya özgü bir yiyecek
+ÞÝDDET: Kaba güç
+ÞÝRRET: Geçimsiz, kavga çýkarmaktan hoþlanan, edepsiz kimse
+ÞÝÞMEK: Yorularak koþuyu sürdüremez duruma gelmek
+ÞÖMÝNE: Aristokrat ocak
+ÞÖMÝNE: Manzaralý ýsýtýcý
+ÞÜKRAN: Ýyilik bilme, gönül borcu, minnettarlýk
+TABELA: Tanýtýcý levha
+TAHRÝK: Sevapsýz çaðrý
+TAHVÝL: Devletin veya özel bir kuruluþun çýkardýðý, belirli oranlarda faiz getiren yazýlý senet
+TAKMAK: Mecazi anlamda biriyle olumsuz yönde sürekli uðraþmak
+TAKSÝM: “Bölme, bölüþtürme” anlamýna gelen, birleþtirici bir semtin de adý olan söz
+TAKSÝT: Bir borcun belli zamanlarda ödenmesi gerekli olan parçalarýndan her biri
+TAKVÝM: Yapraklý zaman sayacý
+TAMTAM: Afrika yerlilerince iletiþim aracý olarak kullanýlan müzik aleti
+TAMTUR: Tüm çevresi küçük pýrlantalarla süslenmiþ yüzüklere verilen ad
+TANDIR: Çukur fýrýn
+TARAMA: Balýk yumurtasý ile yapýlan bir tür meze
+TAÞKIN: Su baskýný
+TAÞLIK: Kuþlardaki sindirim kesesi
+TATAVA: Argoda karþýsýndakini usandýracak þekilde konuþma, laf kalabalýðý
+TATMAK: Bir þeyden lezzetini duyumsayacak kadar az miktarda yemek veya içmek
+TAVÞAN: Kümes hayvaný olarak da kullanýlan bir memeli hayvan
+TAYFUN: Okyanuslarda, Çin Denizi ile Hint Denizi’nde görülen güçlü kasýrga
+TAZÝYE: Ölen kimsenin yakýnlarýna baþsaðlýðý dileme
+TAZYÝK: Basýnç anlamýndaki Arapça kökenli söz
+TEBLÝÐ: Bildirme, haber verme anlamýndaki eski bir söz
+TECRÝT: “Ayýrma, ayrý bir tarafta tutma veya soyutlama” anlamýndaki Arapça kökenli söz
+TEDAVÝ: Öz Türkçe olan “otama” sözünün yaygýn kullanýlan Arapça kökenli karþýlýðý
+TEDAVÝ: “Saðaltým” sözünün yaygýn kullanýlan eþ anlamlýsý
+TEDBÝR: Önlem ya da hazýrlýk anlamýndaki söz
+TEFECÝ: Vicdansýz banker
+TEKÝLA: Teki âlâ, çifti bela sayýlan alkollü içecek
+TEKPAS: Ayaða gelen topu bekletmeden en yakýn ve uygun takým arkadaþýna geçirme
+TEKYÖN: Karþýdan trafik akýþýnýn olmadýðý yol
+TELLAL: Eski zamanlarýn kamusal anonsörü
+TELLAL: Mesleði hoparlörler tarafýndan çalýnan eski zaman anonsörü
+TELSÝZ: Artýk bebek bakýmýnýn vazgeçilmezi olan, elektromanyetik dalgalar yardýmýyla çalýþan araç
+TEMBÝH: Katmerli nasihat, adamakýllý öðüt
+TEMBÝH: Katmerli öðüt, ýsrarcý uyarý
+TEMBÝH: Üsteleyerek yapýlan uyarý
+TENDON: Adale kordonu
+TENDON: Kas kiriþi anlamýndaki Ýngilizce kökenli söz
+TEPMEK: Mecazen bir fýrsatý deðerini anlamayarak geri çevirmek
+TERAZÝ: Denge prensibiyle çalýþan aðýrlýk ölçüm aracý
+TERLÝK: Asýl amacýnýn yaný sýra haþerelere karþý da kullanýlan bir tür gereç
+TERLÝK: Asker jargonunda ayaklarda yaþanan bir saðlýk sorunu nedeniyle verilen istirahatin ön adý
+TERLÝK: Þiddet eylemlerinde de kullanýlan bir tür ayak giyeceði, güdümlü anne füzesi
+TERMAL: Sýcak su kaplýcalarý için kullanýlan bir tabir
+TERTÝP: Ayný dönemde askere alýnmýþ kiþilerin birbirleri için kullandýklarý lakap
+TESCÝL: Herhangi bir þeyi resmî olarak kaydetme, belirleme
+TESPÝH: Bir tür dinî ritüel gerecinin ayný zamanda “süphanallah” sözünü söyleme anlamýna gelen adý
+TESPÝH: Boncuklu zikir halkasý
+TETRÝS: Adýný dört parçalý bloklardan alan 30 yýllýk bir video oyunu
+TEVAZU: Alçak gönüllülük anlamýndaki Arapça kökenli söz
+TEVAZU: Baþkalarýný küçük görmeme, büyüklenmeme durumu, alçak gönüllülük
+TEZGÂH: Esnaf ve zanaatkârlar için çalýþma masasý
+TEZHÝP: El yazmasý kitap sayfalarýnýn yaldýz ve boya ile bezenmesi sanatý
+TEZHÝP: Kitap süslemesi sanatý
+TEZHÝP: Yazma kitaplarda, sayfalarýn yaldýz ve boya ile bezenmesi, yaldýzlama, süsleme, bezeme
+TIRMIK: Bahçe taraðý
+TIRNAK: Metne baþka yerden aktarýlan yazý veya sözlerin baþýna ve sonuna konulan noktalama iþareti
+TIRNAK: Vücuttaki boynuzsu tabaka
+TIRPAN: Batý mitolojisinde Azrail’in iþ aleti
+TIYNET: Huy, yaradýlýþ, maya anlamlarýnda Arapça kökenli bir söz
+TÝROÝT: Gýrtlaðýn ön ve alt bölümünde bulunan, çok damarlý, salgýsýný kana veren bir bez
+TÝÞÖRT: Adýný bir harfe olan benzerliðinden alan kýyafet
+TOKMAK: Havan veya dibekle dövme iþlerinde kullanýlan bir araç
+TOMBÝK: Orkinos yavrusunun, küçük ve þiþman çocuklar için de kullanýlan adý
+TONTON: Genellikle yaþýný almýþ, sempatik, sevecen ve kilolu kiþilere yönelik kullanýlan ilginç bir sýfat
+TOYNAK: Bazý memelilerin ayak ve parmaklarýnýn uç bölgesindeki boynuz maddesinden yapýlmýþ örtü
+TOYNAK: Tek týrnaklý hayvanlarda týrnak
+TRAFÝK: Nüfus yoðunluðu, çarpýk kentleþme ve empati yoksunluðunun yarattýðý ulaþým keþmekeþi
+TRAPEZ: Akrobat salýncaðý
+TRAPEZ: Sirklerdeki gösteri salýncaðý
+TRÝBÜN: Seyirci platformu
+TUNDRA: Kutup bozkýrý
+TUTKAL: Adýyla iþlevini ortaya koyan bir tür yapýþtýrýcý
+TUTKAL: Türlü yapýþtýrýcýlar için kullanýlan, yapýþtýrýcýlarýn yaptýðý iþi açýklayan isim
+TÜMSEK: Düz bir yüzeydeki çýkýntýlý yer
+TÜMSEK: Küçük tepe veya yüzeydeki çýkýntýlý yer anlamýnda kullanýlan bir söz
+TÜRBÝN: Su, buhar, gaz gibi herhangi bir akýþkanýn hareket enerjisiyle dönerek çalýþan araç
+UÇURUM: Susuz þelale
+UÇURUM: Yere dik veya dar açýlý olan derin yamaç
+UÇURUM: Yükselti farkýnýn aniden deðiþtiði yerlerde meydana gelen yeryüzü þekli
+UHREVÝ: Dünyevi sözünün karþýtý
+UHREVÝ: Öbür dünyayla, ahiretle ilgili olan
+UNUFAK: Tutulamayacak kadar küçük parçalara ayrýlmýþ anlamýnda bir söz dizisi
+USULCA: Oldukça yavaþ ve sessiz bir biçimde
+USULEN: Mecazen “formalite icabý” anlamýnda kullanýlan söz
+UYANIK: Mecazi anlamda kurnaz, zeki, iþini bilen, dikkatli ve tetikte olan
+UZAMAK: Argoda kaçarcasýna uzaklaþmak
+UZAYLI: Bilim kurgu eserlerinde sýkça konu edilen farklý yaþam formlarý
+UZAYLI: Dünya dýþý yaþam formu
+ÜREMEK: Çiftleþip çoðalmak
+ÜRETEÇ: “Dinamo” sözünün Türkçe kökenli karþýlýðý
+ÜSTSÜZ: Bedeninin belden yukarýsýný örtmemiþ olan
+ÜTOPYA: Gerçekleþtirilmesi imkânsýz tasarý veya düþünce
+ÜTOPYA: Ýmkânsýz düþünce
+ÜZENGÝ: Binici ayaklýðý
+VARLIK: Hem felsefenin temel kavramlarýndan birisi hem de para, zenginlik, mal, mülk için kullanýlan bir söz
+VERKAÇ: Atak sýrasýnda pas verip boþ alana ilerleme tekniðine verilen ad
+VESÝKA: Halk aðzýnda hayat kadýný diplomasý
+VÝCDAN: Kiþiyi kendi davranýþlarý hakkýnda bir yargýda bulunmaya iten güç, içsel mahkeme
+VÝCDAN: Öz yargýlama yetisi, içsel adalet duygusu
+VÝRANE: Harap durumdaki mekân veya konut
+VÝRGÜL: Dil bilgisinin es iþareti
+VÝTRAY: Sanata dönüþmüþ pencere süslemesi
+VÝZYON: Sinemada “gösterim”
+VOLKAN: Kökü magmaya uzanan coðrafi þekil
+VUKUAT: Polisiye olay
+VUSLAT: Sevgiliye kavuþma
+YAÐMUR: Halk aðzýnda rahmet, bereket de denen doða olayý
+YAKUZA: Japon mafyasý
+YALÇIN: Sarp ve ulaþýlmasý zor olan
+YAMYAM: “Ýnsan insanýn kurdudur.” sözünü beslenme ve diyetetik açýdan benimsemiþ olan kiþi
+YANDAL: Yükseköðretimde öðrencinin temel alanýnýn beraberinde devam ettiði ikincil alan
+YANGIN: Ateþ taþkýný
+YANMAK: Genellikle çocuk oyunlarýnda “oyun dýþý kalmak” anlamýnda kullanýlan söz
+YAPRAK: Bitkilerin solunum ve terleme organý
+YARASA: Memeliler sýnýfýnýn gökyüzündeki temsilcisi
+YARDIM: Kendi gücünü ve imkânlarýný baþka birinin iyiliði için kullanma
+YASTIK: Çiftler arasýndaki romantik yatak odasý savaþlarýnýn yumuþak mühimmatý
+YAYLIM: Otomatik silahlarda hasmý biçmek için yapýlan ateþi niteleyen sýfat
+YAZKIÞ: “Bütün yýl boyunca, her mevsim” anlamýnda bir söz dizisi
+YAZMAK: Argoda karþý cinsin ilgisini çekmek için, “teoride” flört etmek
+YAZMAN: “Kâtip” sözcüðünün günümüz Türkçesindeki karþýlýðý
+YENGEÇ: Çaðanoz, çalpara, pavurya gibi türleri olan bir eklem bacakl
+YENGEÇ: Yampiri su kabuklusu
+YERSEN: Argoda “iþine gelirse, beðenirsen” veya “inanýrsan, güvenirsen” anlamlarýnda kullanýlan bir söz
+YIÐMAK: Bir tepe oluþturacak biçimde üst üste koymak
+YILDIZ: Asteriks de denen noktalama iþaretinin Türkçe adý
+YILDIZ: Uzayda ýþýk saçan plazma küresi
+YIRTIK: Mecazi anlamda utanmasý çekinmesi olmayan, medeni cesaret silahþorü
+YÝYÝCÝ: Halk aðzýnda rüþvet alan kiþi
+YOKYOK: Çeþitlilikte sýnýr tanýmayan ticarethanelerin kullandýðý bir slogan
+YOLLUK: Hesabý ödemeden hemen önce veya ödedikten hemen sonra içilen son kadeh
+YOLMAK: Çekip koparmak
+YOLSUZ: Mecazi anlamda kanuna, kurallara aykýrý olarak yapýlan anlamýndaki söz
+YOLVER: Etrafý kýrmýzý þeritli ters üçgen biçimindeki trafik levhasýnýn anlamý
+YORMAK: Anlam vermek, bir duruma iþaret saymak
+YUMRUK: El ve parmaklarýn aldýðý saldýrgan biçim
+YÜKLEM: Cümlede oluþ, iþ ve hareket bildiren kelime veya kelime grubu
+YÜKSÜK: Parmak zýrhý
+YÜZAKI: Mecazen övünç kaynaðý anlamýnda kullanýlan bir söz dizisi
+YÜZGEÇ: Balýklarda ve bazý su hayvanlarýnda bulunan, hareketi ve dengeyi saðlayan organ
+ZEBANÝ: Ahiretteki ceza infaz memuru
+ZEBANÝ: Cehennemdeki idari iþler personeli
+ZEPLÝN: Karanlýk bir maziye sahip olduðu için yaygýn olarak ulaþým amaçlý kullanýlamayan bir hava aracý
+ZEVZEK: Gereksiz geveze
+ZEVZEK: Patavatsýz geveze
+ZEYBEK: Batý Anadolu efesi
+ZEYBEK: Bireysel performansa da prim veren bir halk dansýmýz
+ZEYTÝN: Yabanisine “delice” denen, meyvesi yenen, yaðý çýkarýlan, Akdeniz’e özgü bir aðaç
+ZILGIT: Güneydoðu Anadolu folkloruna özgü eðlencelik ahenkli ses ya da azarlama anlamýndaki söz
+ZILGIT: Güneydoðu Anadolu’ya özgü folklorik çýðlýk
+ZINDIK: Arapça kökenli “tanrýtanýmaz” anlamýndaki söz
+ZINDIK: “Ateist” ile eþ anlamlý, hakaret sözü olarak kullanýlan bir tabir
+ZINDIK: Eski dilde ateist
+ZIPKIN: Su altý tüfeði
+ZIRNIK: “Arsenik”in eþ anlamlýsý olan, ayný zamanda “bir þeyin en küçük, önemsiz parçasý” anlamýnda kullanýlan söz
+ZÝBÝDÝ: Asýl anlamý süslü ve yakýþýklý olup “gülünç giyinmiþ, yersiz tavýrlý” anlamýnda kullanýlan bir söz
+ZÝMMET: Kurum ve kuruluþlarda çalýþanlara imza karþýlýðý teslim edilen para veya eþya
+ZÝNCÝR: Birbirine baðlý maðazalardan oluþan satýþ birimi dizisi
+ZÝNHAR: Asla, hiçbir þekilde anlamýnda Arapça kökenli bir söz
+ZÝRZOP: “Zýpýr” ve “zýrtapoz” sözlerinin eþ ve yakýn anlamlýsý
+ZÝYNET: Taký ve benzeri eþyalar için kullanýlan, “süs, bezek” anlamýna gelen Arapça kökenli söz
+ZODYAK: Burçlar kuþaðý
+ZORAKÝ: Ýstemeyerek, mecburen yapýlan anlamýndaki söz
+ZÜRAFA: Birçok kültürde zarafet ve inceliði temsil eden hayvan
