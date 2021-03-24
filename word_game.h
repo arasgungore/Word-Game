@@ -66,6 +66,7 @@ public:
 	void Start();
 };
 
+// other function declarations
 void MoveCursorToXY(const short &x, const short &y);
 template<class T> T GetRandomNumber(const T &min, const T &max);
 

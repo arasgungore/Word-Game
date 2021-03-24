@@ -4,7 +4,7 @@
 #include <cmath>
 #include <conio.h>
 
-// moves the cursor to (x, y) location on the terminal
+// moves the cursor to a different (x, y) location on the terminal
 void MoveCursorToXY(const short &x, const short &y) {
 	SetConsoleCursorPosition(GetStdHandle(STD_OUTPUT_HANDLE), (COORD){x, y});
 }
@@ -47,9 +47,9 @@ void Timer::IncreaseTimer(const short &m_inc, const double &s_inc) {
 // updates the timer
 bool Timer::UpdateTimer(const clock_t &before, const clock_t &after) {
 	seconds -= double(after - before) / double(CLOCKS_PER_SEC);
-	if(seconds<0.0) {
+	if(seconds < 0.0) {
 		seconds += 60.0;
-		if((--minutes)<0)
+		if((--minutes) < 0)
 			return false;
 	}
 	return true;
@@ -57,7 +57,7 @@ bool Timer::UpdateTimer(const clock_t &before, const clock_t &after) {
 
 // updates the timer display on the terminal
 void Timer::UpdateTimerDisplay(clock_t &begin, const clock_t &after, const short &x, const short &y) const {
-	if(double(after - begin) / double(CLOCKS_PER_SEC) >= 0.9) {
+	if(double(after - begin) / double(CLOCKS_PER_SEC) >= 0.9) {		// update the timer display once every 0.9 seconds
 		MoveCursorToXY(x, y);
 		std::cout << "     ";
 		MoveCursorToXY(x, y);
@@ -90,13 +90,13 @@ void WordGame::Update() {
 		current_time.UpdateTimerDisplay(begin, after, 16, 14);
 		if(kbhit())
 			switch(toupper(getch())) {
-				case BENJAMIN:
-					StopTime(before, after);
+				case BENJAMIN:					// if the player hits the Benjamin button (pun intended), stops the timer
+					StopTime(before, after);	// and gives 30 seconds to the player to come up with an answer
 					break;
-				case HARF_ALAYIM:
-					GetLetter();
+				case HARF_ALAYIM:				// if the player requests a letter by pressing 'H', one letter of the answer
+					GetLetter();				// is revealed on the display
 					break;
-				case PAUSE_KEY: {
+				case PAUSE_KEY: {				// pause the game
 					clock_t begin_temp = clock(), after_temp;
 					char key;
 					do {
@@ -106,7 +106,7 @@ void WordGame::Update() {
 					} while((key = toupper(key)) != PAUSE_KEY);
 					after_temp = clock();
 					double past_time = double(after_temp - begin_temp) / double(CLOCKS_PER_SEC);
-					current_time.IncreaseTimer(short(past_time)/60, fmod(past_time, 60.0));
+					current_time.IncreaseTimer(short(past_time)/60, fmod(past_time, 60.0));		// adds the time that has passed while the game has been paused to the timer
 					break; }
 				case ESCAPE_KEY:
 					std::cout << "\n\n\n\n";
@@ -121,12 +121,13 @@ void WordGame::Update() {
 }
 
 // reveals a letter of the answer (Harf alayým)
+// however by doing so, the player sacrifices 100 potential points
 void WordGame::GetLetter() {
 	unsigned short letter_index;
 	do {
 		letter_index = GetRandomNumber<unsigned short>(0, current_word.length() - 1);
 	} while(word_on_display[letter_index] != '_');
-	for(unsigned short i=0;i<30;i++) {
+	for(unsigned short i=0;i<30;i++) {		// display 30 random letters fast before revealing the letter
 		word_on_display[letter_index] = GetRandomNumber<char>('A', 'Z');
 		PrintQandAScreen();
 		Sleep(20);
@@ -142,7 +143,8 @@ void WordGame::GetLetter() {
 	current_time.IncreaseTimer(0, 0.6);
 }
 
-// stops the timer (Benjamin)
+// stops the timer (Benjamin), gives the player time to think
+// however by doing so, the player cannot request anymore letters and will lose points by the amount of unrevealed number of letters
 void WordGame::StopTime(clock_t &before1, clock_t &after1) {
 	benjamin.SetTimer(BENJAMIN_TIME_IN_SECONDS/60, BENJAMIN_TIME_IN_SECONDS%60);
 	MoveCursorToXY(16, 19);
@@ -171,7 +173,7 @@ void WordGame::StopTime(clock_t &before1, clock_t &after1) {
 	StopTimeUtil(before, after, before1, after1, false);
 }
 
-// an utility function of "StopTime"
+// an utility function of "StopTime", displays the answer, updates player's score, and gets the next question
 void WordGame::StopTimeUtil(clock_t &before, clock_t &after, clock_t &before1, clock_t &after1, const bool &guessed_correct) {
 	DisplayAnswer();
 	MoveCursorToXY(46, 14);
@@ -195,7 +197,7 @@ void WordGame::StopTimeUtil(clock_t &before, clock_t &after, clock_t &before1, c
 	GetNextQuestion();
 }
 
-// prints the opening screen, gives instructions on how to play the game
+// prints the opening (aka title) screen, gives the rules and instructions on how to play the game
 void WordGame::PrintOpeningScreen() {
 	std::cout << " .----------------.  .----------------.  .----------------.  .----------------.  .----------------.  .----------------." << std::endl;
 	std::cout << "| .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. |" << std::endl;
@@ -240,7 +242,7 @@ void WordGame::PrintOpeningScreen() {
 	std::cout << "\n\n-> Süreyi durdurduktan itibaren kelimeyi bilmeniz için";
 	if(BENJAMIN_TIME_IN_SECONDS/60 > 0)
 		std::cout << " " << BENJAMIN_TIME_IN_SECONDS/60 << " dakika";
-	BENJAMIN_TIME_IN_SECONDS%60>0		?	std::cout << " " << BENJAMIN_TIME_IN_SECONDS%60 << " saniyeniz"	:	std::cout << "nýz";
+	BENJAMIN_TIME_IN_SECONDS%60 > 0		?	std::cout << " " << BENJAMIN_TIME_IN_SECONDS%60 << " saniyeniz"	:	std::cout << "nýz";
 	std::cout << " olacak, bu süre içinde kelimeyi bilemezseniz bilemediðiniz her harf için " << POINTS_PER_LETTER << " puan kaybedeceksiniz.";
 	std::cout << "\n\n-> Oyunu istediðiniz zaman durdurmak için '" << PAUSE_KEY << "' tuþuna, çýkmak için de 'Escape' tuþuna basabilirsiniz.";
 	std::cout << "\n\n\nDilediðiniz herhangi bir tuþa basarak oyunu baþlatabilirsiniz.";
@@ -249,7 +251,7 @@ void WordGame::PrintOpeningScreen() {
 	system("cls");
 }
 
-// prints the loading screen
+// prints a loading screen with a progress bar
 void WordGame::PrintLoadingScreen() {
 	MoveCursorToXY(40, 10);
 	std::cout << "Yükleniyor...";
@@ -261,7 +263,7 @@ void WordGame::PrintLoadingScreen() {
 	system("cls");
 }
 
-// prints the question and the hidden answer
+// prints the question, its hidden answer, and also the score
 void WordGame::PrintQandAScreen() const {
 	MoveCursorToXY(0, 0);
 	std::cout << "\n\n\t\t************************************";
@@ -285,7 +287,7 @@ void WordGame::PrintEndGameScreen() const {
 	system("cls");
 }
 
-// records score
+// records the player's score
 void WordGame::RecordScore() {
 	time_t mytime = time(NULL);
 	const std::string filename = "rekorlar.txt";
@@ -331,7 +333,7 @@ void WordGame::RecordScore() {
 	}
 }
 
-// gets the next question once the previous question has passed
+// gets the next question once the previous question has passed and its answer has been revealed to the player
 void WordGame::GetNextQuestion() {
 	if(QandA.empty()) {
 		PrintEndGameScreen();
@@ -348,7 +350,7 @@ void WordGame::GetNextQuestion() {
 	PrintQandAScreen();
 }
 
-// reveals the answer to the player
+// reveals the answer to the player after time's up, all letters are requested, or the question is answered correctly
 void WordGame::DisplayAnswer() {
 	std::vector<unsigned short> undisplayed_letter_indexes;
 	for(unsigned short i=0;i<word_on_display.length();i++)
@@ -365,7 +367,7 @@ void WordGame::DisplayAnswer() {
 	Sleep(200);
 }
 
-// gets questions from question database and loads to memory
+// selects questions from question database randomly and loads them to memory
 void WordGame::ReadQuestion(const unsigned short &no_of_letters) {
 	const std::string filename = "Questions/" + std::to_string(no_of_letters) + " letter answers.txt";
 	std::ifstream myfile(filename);
@@ -391,7 +393,7 @@ void WordGame::ReadQuestion(const unsigned short &no_of_letters) {
 	myfile.close();
 }
 
-// checks whether the answer is correct or wrong
+// checks whether the player's guess is correct or wrong
 bool WordGame::CompareAnswers(const std::string &guess) const {
 	if(current_word.length() != guess.length())
 		return false;
