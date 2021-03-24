@@ -11,6 +11,11 @@ g++ word_game.cpp main.cpp -std=c++11 -o test
 test
 ```
 
+# Gameplay
+<p align="center">
+    <img alt="Screenshot" src="https://github.com/arasgungore/word-game/blob/main/Screenshots/word_game.gif" width="1000">
+</p>
+
 ## Author
 
 👤 **Aras Güngöre**
