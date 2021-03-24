@@ -4,7 +4,7 @@ A C++ project which lets you play the popular TV show Word Game (Kelime Oyunu) w
 ## Run on terminal
 
 ```sh
-g++ wordGame.cpp main.cpp -std=c++11 -o test
+g++ word_game.cpp main.cpp -std=c++11 -o test
 test
 ```
 
