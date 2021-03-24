@@ -13,7 +13,7 @@ test
 
 # Gameplay
 <p align="center">
-    <img alt="Screenshot" src="https://github.com/arasgungore/word-game/blob/main/Screenshots/word_game.gif" width="1000">
+    <img alt="Screenshot" src="https://github.com/arasgungore/word-game/blob/main/Screenshots/gameplay.gif" width="1000">
 </p>
 
 ## Author
