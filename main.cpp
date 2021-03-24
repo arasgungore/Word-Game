@@ -1,4 +1,4 @@
-#include "wordGame.h"
+#include "word_game.h"
 
 int main() {
 	srand((unsigned int)time(NULL));
