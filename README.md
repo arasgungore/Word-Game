@@ -8,7 +8,7 @@ A C++ project which lets you play the popular TV show Word Game (Kelime Oyunu) w
 
 
 
-## Run on terminal
+# Run on terminal
 
 ```sh
 g++ word_game.cpp main.cpp -std=c++11 -o test
@@ -25,10 +25,9 @@ test
 
 
 
-## Author
+# Author
 
 👤 **Aras Güngöre**
 
 * LinkedIn: [@arasgungore](https://www.linkedin.com/in/arasgungore)
 * Github: [@arasgungore](https://github.com/arasgungore)
-* HackerRank: [@arasgungore](https://www.hackerrank.com/arasgungore)
