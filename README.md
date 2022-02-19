@@ -4,7 +4,7 @@ A C++ project in which you can play the most naive and elegant game show of the 
 
 
 
-## Rules
+## Introduction
 
 <p align="center">
     <img alt="Screenshot" src="https://github.com/arasgungore/word-game/blob/main/Screenshots/title_screen.jpg" width="1000">
