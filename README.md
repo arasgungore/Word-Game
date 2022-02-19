@@ -21,7 +21,7 @@ Respectively, these words or phrases will have 4, 5, 6, 7, 8, 9, and 10 letters 
 - You will earn 100 points for every letter you know from these 14 words (a total of 98 letters).
 
 - For help, you can reveal a letter of the word by pressing the 'H' key; but you cannot get points from these letters.
-You can stop the timer by pressing the 'B' key (Benjamin Button), but you cannot get letters after stopping the timer.
+You can stop the timer by pressing the 'B' key (Benjamin), but you cannot get letters after stopping the timer.
 
 - You will have 30 seconds to guess the word after the timer stops. If you cannot guess the word correctly within this time,
 you will be penalized 100 points for each letter you didn't know.
