@@ -12,7 +12,8 @@ A C++ project in which you can play the most naive and elegant game show of the 
 
 Welcome to the Word Game!
 
-Rules:
+
+### Rules
 
 - You will try to guess a total of 14 words or phrases according to the definitions given in 4 minutes.
 Respectively, these words or phrases will have 4, 5, 6, 7, 8, 9, and 10 letters for each pair.
