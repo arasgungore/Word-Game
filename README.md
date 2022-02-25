@@ -33,20 +33,20 @@ Press any key to start the game.
 
 
 
-## Run on terminal
-
-```sh
-g++ word_game.cpp main.cpp -std=c++11 -o test
-test
-```
-
-
-
 ## Gameplay
 
 <p align="center">
     <img alt="Screenshot" src="https://github.com/arasgungore/word-game/blob/main/Screenshots/gameplay.gif" width="1000">
 </p>
+
+
+
+## Run on Terminal
+
+```sh
+g++ word_game.cpp main.cpp -std=c++11 -o test
+test
+```
 
 
 
