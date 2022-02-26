@@ -19,7 +19,7 @@ Welcome to the Word Game!
 Words/phrases will be presented to you one by one, and respectively they will have 4, 5, 6, 7, 8, 9, and 10 letters for each pair.
 
 - You will earn 100 points per letter from the words/phrases you guess correctly from these 14 words/phrases.
-(a total of 98 letters, which makes the highest possible score 9800)
+(a total of 98 letters, which makes the highest possible score 9,800)
 
 - For help, you can reveal a letter of current the word/phrase by pressing the 'H' key; but you cannot get points from the revealed letters.
 You can stop the timer by pressing the 'B' key (Benjamin), but you cannot reveal any more letters after stopping the timer.
