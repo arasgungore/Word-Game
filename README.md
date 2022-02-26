@@ -1,6 +1,6 @@
 # word-game
 
-A C++ project in which you can play the most naive and elegant game show of the screens, Kelime Oyunu (Word Game) on the terminal. The Turkish question pool contains over 7000 questions to help you boost your word power.
+A C++ project in which you can play the most naive and elegant game show of the screens, Kelime Oyunu (Word Game) on the terminal. The Turkish question pool contains over 7,000 questions to help you boost your word power.
 
 
 
