@@ -4,13 +4,22 @@ A C++ project in which you can play the most naive and elegant game show of the 
 
 
 
+## Run on Terminal
+
+```sh
+g++ word_game.cpp main.cpp -std=c++11 -o test
+test
+```
+
+
+
 ## Introduction
 
 <p align="center">
     <img alt="Screenshot" src="https://github.com/arasgungore/word-game/blob/main/Screenshots/title_screen.jpg" width="1000">
 </p>
 
-Welcome to the Word Game!
+Welcome to Kelime Oyunu (Word Game)!
 
 
 ### Rules
@@ -38,15 +47,6 @@ Press any key to start the game.
 <p align="center">
     <img alt="Screenshot" src="https://github.com/arasgungore/word-game/blob/main/Screenshots/gameplay.gif" width="1000">
 </p>
-
-
-
-## Run on Terminal
-
-```sh
-g++ word_game.cpp main.cpp -std=c++11 -o test
-test
-```
 
 
 
